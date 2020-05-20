@@ -57,7 +57,9 @@ there are some very concrete things you can do:
 
 # Working Smart
 
-Hard work is important but smart, efficient work is important as well. Combining hard work - doing all the work you need to do - with efficient work - avoiding wasted time and effort - is a powerful and effective combination.
+Hard work is important but smart, efficient work is important as well.
+Combining hard work - doing all the work you need to do - with efficient work
+- avoiding wasted time and effort - is a powerful and effective combination.
 
 Here are some actions that can lead to smart, efficient work:
 
@@ -65,4 +67,11 @@ Here are some actions that can lead to smart, efficient work:
 - Develop a personal [workflow](https://en.wikipedia.org/wiki/Workflow).
 - Take control of your own learning via [self-regulated learning](https://en.wikipedia.org/wiki/Self-regulated_learning) and [metacognition](https://en.wikipedia.org/wiki/Metacognition).
 - [Space out study](https://en.wikipedia.org/wiki/Spacing_effect) sessions and [avoid cramming](https://www.bbc.com/future/article/20140917-the-worst-way-to-learn).
+
+
+# Theory and Practice
+
+> Theory and practice are not mutually exclusive; they are intimately connected. They live together and support each other. Computer science is a field where theory and practice come together more than in any other discipline, because of the nature of computing machines.
+>
+> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth), ["Theory and Practice."](https://doi.org/10.1016/0304-3975(91)90295-D) 
 
