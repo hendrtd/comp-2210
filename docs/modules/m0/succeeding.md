@@ -38,7 +38,31 @@ help each other learn, but there is a line where help crosses over into
 academic dishonesty. Never share your code with other people, and never use
 code that isn't your own.
 
+## Personal Engagement
+
+> I believe in the human touch, which cultivates sympathy with my fellow men
+and mutual helpfulness and brings happiness for all. 
+
+The most successful course experiences involve meaningful *engagement* by 
+students. Seeing learning as an active process in which you have a significant
+share of the responsibility is an important perspective. Beyond that though,
+there are some very concrete things you can do:
+
+- Use Piazza to ask questions that you have regarding anything in the course.
+- Use Piazza to answer questions and engage with other students in the course.
+- Attend labs, engage with the TA and with your classmates.
+- Attend lecture, ask questions, engage with the instructor and your classmates.
+- This will allow you to share individual perspectives and ideas that will allow the group to construct understanding that wouldn't have been possible alone.
 
 
 # Working Smart
+
+Hard work is important but smart, efficient work is important as well. Combining hard work - doing all the work you need to do - with efficient work - avoiding wasted time and effort - is a powerful and effective combination.
+
+Here are some actions that can lead to smart, efficient work:
+
+- Practice good [time management](https://en.wikipedia.org/wiki/Time_management).
+- Develop a personal [workflow](https://en.wikipedia.org/wiki/Workflow).
+- Take control of your own learning via [self-regulated learning](https://en.wikipedia.org/wiki/Self-regulated_learning) and [metacognition](https://en.wikipedia.org/wiki/Metacognition).
+- [Space out study](https://en.wikipedia.org/wiki/Spacing_effect) sessions and [avoid cramming](https://www.bbc.com/future/article/20140917-the-worst-way-to-learn).
 
