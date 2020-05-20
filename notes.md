@@ -39,3 +39,12 @@ Here is an example full page:
 <p class="kl_module_progress_icons" style="display: none;">Icon Progress Bar/Navigation (built in browser, hidden in app)</p>
 <p>&nbsp;</p>
 ```
+
+
+# Gravatar Image
+
+- https://en.gravatar.com/site/implement/images/
+- https://en.gravatar.com/site/implement/hash/
+- https://wpsites.net/wordpress-tips/how-to-get-the-url-to-a-gravatar-image/
+- https://www.md5hashgenerator.com/
+
