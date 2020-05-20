@@ -16,3 +16,9 @@ Auburn, AL 36849
 
 
 # Teaching Assistants
+
+GTA | Email | Section | Office Hours
+--- | ----- | ------- | ------------
+Hugh Kwon | <hzk0070@auburn.edu> | 001 | 12:00 PM CT - 2:00 CT
+Tathagata Bhattacharya | <tzb0063@auburn.edu> | 002 | 9:00 AM CT - 11:00 AM CT
+
