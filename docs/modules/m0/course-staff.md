@@ -9,7 +9,7 @@ Computer Science and Software Engineering
 3101D Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
-Auburn, AL 36849
+Auburn, AL 36849  
 +1 334 844 6305  
 <dh@auburn.edu>  
 <http://eng.auburn.edu/csse>
