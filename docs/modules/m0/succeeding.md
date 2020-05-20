@@ -73,5 +73,8 @@ Here are some actions that can lead to smart, efficient work:
 
 > Theory and practice are not mutually exclusive; they are intimately connected. They live together and support each other. Computer science is a field where theory and practice come together more than in any other discipline, because of the nature of computing machines.
 >
-> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth), ["Theory and Practice."](https://doi.org/10.1016/0304-3975(91)90295-D) 
+> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) in ["Theory and Practice"](https://doi.org/10.1016/0304-3975(91)90295-D) 
 
+You will hopefully come to see and appreciate how theory and practice blend and influence and support each other in this course. For now, though, let me point out a potential pitfall to avoid. We often tend to concentrate on what we think of as the "theory" side when we study. Reading the notes and watching the lecture videos are probably the two most common studying activities that I've observed in students. 
+
+One of the most neglected activities, however, is the *doing*. Don't just read the notes, *do* the notes. Is there an algorithm being discussed in the notes? Do it. Implement the algorithm and make it work. Is there code being discussed in the notes? Do it. Implement the code and make it work. It's great to know that you can tell if a value is in an array by examining no more than approximately *log*<sub>2</sub> elements (theory), but it's not very useful unless you can write the code that actually does it (practice).
