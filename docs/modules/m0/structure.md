@@ -8,7 +8,7 @@ organized strictly by content, these modules are
 [timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M7 are
 of fixed, equal durations with specific tasks to be completed within each. (If
 you're familiar with 
-[agile methods](https://en.wikipedia.org/wiki/Agile_software_developmenthttps://en.wikipedia.org/wiki/Scrum_(software_development)),
+[agile methods](https://en.wikipedia.org/wiki/Agile_software_development),
 you'll recognize similarities to
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
 
