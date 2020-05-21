@@ -58,8 +58,8 @@ there are some very concrete things you can do:
 # Working Smart
 
 Hard work is important but smart, efficient work is important as well.
-Combining hard work - doing all the work you need to do - with efficient work
-- avoiding wasted time and effort - is a powerful and effective combination.
+Combining hard work - doing all the work you need to do - with efficient work - avoiding 
+wasted time and effort - is a powerful and effective combination.
 
 Here are some actions that can lead to smart, efficient work:
 
@@ -87,13 +87,17 @@ notes, *do* the notes. Is there an algorithm being discussed in the notes? Do
 it. Implement the algorithm and make it work. Is there code being discussed in
 the notes? Do it. Implement the code and make it work. It's great to know that
 you can decide if a value is in an array by examining no more than
-approximately *log*<sub>2</sub> elements (theory), but knowing that isn't very
-useful unless you can write the code to do it (practice).
+approximately *log*<sub>2</sub> of the total elements in the array (theory),
+but knowing that isn't very useful unless you can write the code to do it
+(practice).
 
-And being able to do that brings up a different meaning of the word "practice" - engaging in an activity repeatedly in order to master it. 
-[Practice](https://en.wikipedia.org/wiki/Practice_(learning_method)) 
-is essential in this course and in this field. In computer science and software engineering, 
-*knowing* is useless without *doing*. Take every opportunity you have to practice.
+And being able to put that theory into practice brings up a different meaning
+of the word "practice" - engaging in an activity repeatedly in order to master
+it. This notion of
+[practice](https://en.wikipedia.org/wiki/Practice_(learning_method))  is
+essential in this course and in this field. In computer science and software
+engineering,  *knowing* is useless without *doing*. Take every opportunity you
+have to practice.
 
 If you want to learn to speak a different language, practice is the only way to achieve fluency. If you want to learn to play a musical instrument, practice is the only way to achieve competence and mastery. The same is true in this course; practice is the only way to become fluent in a programming language and proficient in writing programs.
 
