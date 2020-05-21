@@ -24,7 +24,7 @@ boundaries. Specifically:
 This overall course structure is the same regardless of course delivery mode
 (in-person or online) or term (15-week fall/spring, 10-week summer, or 7.5
 week half-term). Module 0 begins on the first day of classes for the term and
-ends on the first Sunday of the term. Modules 1-7 each begin on a Monday and
+ends on the first Sunday of the term. Each module 1-7 begins on a Monday and
 ends on a Sunday. The duration of each module 1-7 is the same but varies by
 term (14 days for fall/spring, 10 days for summer, and 7 days for half-term).
 
