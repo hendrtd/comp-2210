@@ -96,8 +96,18 @@ of the word "practice" - engaging in an activity repeatedly in order to master
 it. This notion of
 [practice](https://en.wikipedia.org/wiki/Practice_(learning_method))  is
 essential in this course and in this field. In computer science and software
-engineering,  *knowing* is useless without *doing*. Take every opportunity you
-have to practice.
+engineering,  *knowing* is useless without *doing*. 
 
-If you want to learn to speak a different language, practice is the only way to achieve fluency. If you want to learn to play a musical instrument, practice is the only way to achieve competence and mastery. The same is true in this course; practice is the only way to become fluent in a programming language and proficient in writing programs.
+If you want to learn to speak a different language, practice is the only way
+to achieve fluency. If you want to learn to play a musical instrument,
+practice is the only way to achieve competence and mastery. The same is true
+in this course; practice is the only way to become fluent in a programming
+language and proficient in writing programs. Take every opportunity you have
+to practice.
 
+Here are a few resources on practice:
+
+- https://www.harvardbusiness.org/the-importance-of-practice-and-our-reluctance-to-do-it/
+- https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice
+- https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning
+<!-- - https://www.apa.org/education/k12/practice-acquisition -->
