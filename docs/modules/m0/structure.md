@@ -49,3 +49,4 @@ of term issues.
 
 # Workflow
 
+![worflow](img/workflow.png)
