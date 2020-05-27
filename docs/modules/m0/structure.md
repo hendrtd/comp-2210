@@ -12,7 +12,7 @@ you're familiar with
 you'll recognize similarities to
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
 
-Scheduling, planning, and knowing when things are due is easy with timeboxed
+Scheduling, planning, and knowing when things are due are easy with timeboxed
 modules. All graded items are scheduled to be due or delivered on module
 boundaries. Specifically:
 
