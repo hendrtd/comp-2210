@@ -46,7 +46,26 @@ of term issues.
 
 # Module Structure
 
+Each of the seven content modules has the same structure with the following components.
+
+- Module Overview: A brief introduction to the module content.
+- Module At-A-Glance: A more complete description of the module focus, tips for success, and learning objectives.
+- Instructional Resources: Links to complete lecture notes for the module and references to associated readings from textbooks.
+- Lectures: Links to complete instructional videos tied to the lecture notes.
+- Hands-On Activities: One or more activities designed to help you put into practice some of the topics being presented in the notes.
+- Programming Assignment: An assignment that requires you to implement a software solution to a given problem. The assignment relates to the content of the current and/or previous modules.
+- Summary: A brief recap of what was covered in the module.
+
+In addition to these common elements, Module 2, 4, and 7 have:
+
+- Lab Test: A timed programming test that requires you to implement software solutions for small, focused problems. While a programming assignment measures your ability to solve a larger problem over a two-week period, the lab tests are designed to measure your ability to solve small problems quickly. Doing this requires that you have internalized and mastered basic problem solving skills, basic programming skills, and appropriate language knowledge. A lab test is very much a test of your *fluency*.
+- Exam: A timed Canvas quiz that tests your overall mastery of the content in the current module and one or more previous modules.
+
 
 # Workflow
 
+Since each content module has the same structure, you can apply the same process to going through each. Here is a suggested [workflow](https://en.wikipedia.org/wiki/Workflow) for going through each module of this course.
+
 ![worflow](img/workflow.png)
+
+Notice the iterative nature of the items in the *Work & Learn* [swimlane](https://en.wikipedia.org/wiki/Swim_lane). Rather than going through this portion of the module sequentially, I strongly encourage you to [iterative](https://en.wikipedia.org/wiki/Iteration) approach. Read a portion of the notes, then watch the associated lecture videos, and then do the associated hands-on activities (if any). I also suggest that you start the assignment near the beginning of the module and interleave your work on the assignment with the notes/lecture/hands-on cycle. Since most assignments are based on material covered in previous modules, this interleaving is easy to do.
