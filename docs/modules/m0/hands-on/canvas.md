@@ -24,3 +24,9 @@ Take the following steps to familiarize yourself with Canvas.
 	- Scroll to the bottom of the page to see your current course score and how it is calculated according to the grading category weights.
 	- Toggle the *Show All Details* on and off to see what information is displayed.
 	- Explore and exercise the what-if analysis feature by changing the score on some graded item. Notice how Canvas updates your projected grade to reflect your entered what-if score. Reload the page and see how Canvas resets the what-if score to its real value, but adds a button to allow you to review the what-if score you had entered.
+
+
+## Submit for a Grade
+
+To receive credit for completing this activity you must take the associated quiz. 
+
