@@ -79,8 +79,42 @@ from [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
 A [jGRASP plugin for Eclipse](https://jgrasp.org/eclipse_plugin.html) is available
 to provide the object viewers from within the Eclipse environment. 
 
+### Online IDE provided by Vocareum
 
-## ... or a good Editor
+[Vocareum](https://www.vocareum.com/), the cloud-based auto-grading tool that
+we will use in this course, provides a simple IDE. You will be required to use
+this IDE for the lab tests, and you can use this IDE for the programming
+assignments if you like.
+
+
+## Editor + Command Line
+
+While IDEs can provide convenience and power, there are reasons that you might
+want to use a small set of separate tools rather than an integrated
+environment.
+
+- Using an IDE can make it easy to not understand what lower-level tools are being used when a program is compiled, executed, tested, and debugged.
+- Using an IDE can make it easy to misunderstand the separation between a program, the IDE, the language, and the different tools being used.
+- Being able to work at the command line with fundamental programming tools is important.
+
+The minimum tools necessary to work in this mode are an editor, a Java compiler, a Java runtime environment, and a terminal/shell/command-line window.
+
+### Good text editors
+
+A good text editor can be used for far more than programming, and this is another advantage of going this route. Once you get comfortable with a powerful text editor, you'll want to use it for most everything.
+
+#### Sublime Text
+
+#### Atom
+
+#### Vim
+
+#### Emacs
+
+
+### Terminal Shell
+
+### Compiler and Runtime Environment
 
 
 ## Testing Framework - JUnit
