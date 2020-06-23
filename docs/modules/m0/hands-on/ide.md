@@ -19,6 +19,27 @@ After the discussion below I offer a suggestion of how you might make your choic
 
 ## Java Development Kit (JDK)
 
+The Java Development Kit
+([JDK](https://en.wikipedia.org/wiki/Java_Development_Kit)) is a computing
+platform for developing and deploying software written in
+[Java](https://en.wikipedia.org/wiki/Java_(programming_language)). This course
+will use the [Java SE
+Platform](https://www.oracle.com/java/technologies/platform-glance.html),
+which includes the language, compiler, debugger, runtime environment, and
+extensive software libraries - everything you need to develop software in
+Java, except for an editor to create source code text files.
+
+To work on your own computer, you must download and install the Java SE JDK
+from either
+[Oracle](https://www.oracle.com/technetwork/java/javase/overview/index.html)
+or the [essentially identical](https://blogs.oracle.com/java-platform-group/oracle-jdk-releases-for-java-11-and-later)
+open source [OpenJDK](https://openjdk.java.net/). The lastest release is
+recommended, although version 7 or above will be sufficient for this course.
+
+Here are direct links to the latest Java SE JDK downloads from both Oracle cand OpenJDK.
+
+- [https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [https://jdk.java.net/14/](https://jdk.java.net/14/)
 
 ## Integrated Development Environment (IDE)
 
