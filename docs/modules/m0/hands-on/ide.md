@@ -14,9 +14,16 @@ purposes of this course it will be important to choose a development that is a
 ["Goldilocks fit"](https://en.wikipedia.org/wiki/Goldilocks_principle) for you
 -- not too little, not too much, but just right.
 
-You can jump to a particular section through the following list.
+There is quite of bit of material here, so you can jump to a particular section through the following list.
 
-- [Text Editors](#text-editors)
+- [Java Development Kit](#java-development-kit-jdk)
+- [Integrated Development Environment](#integrated-development-environment-ide)
+	- [jGRASP](#jgrasp)
+	- [IntelliJ](#intellij)
+	- [Eclipse](#eclipse)
+	- [Vocareum](#online-ide-provided-by-vocareum)
+- [Editor + Command Line](#editor-+-command-line)
+	- [Text Editors](#text-editors)
 
 
 ## Java Development Kit (JDK)
