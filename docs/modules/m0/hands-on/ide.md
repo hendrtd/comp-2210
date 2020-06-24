@@ -14,7 +14,9 @@ purposes of this course it will be important to choose a development that is a
 ["Goldilocks fit"](https://en.wikipedia.org/wiki/Goldilocks_principle) for you
 -- not too little, not too much, but just right.
 
-After the sections below I offer a suggestion on how you might choose a development environment for this course.
+You can jump to a particular section through the following list.
+
+- [Text Editors](#text-editors)
 
 
 ## Java Development Kit (JDK)
