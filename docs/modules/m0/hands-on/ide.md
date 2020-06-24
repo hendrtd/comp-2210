@@ -120,7 +120,16 @@ Emacs and vi are the old guard of text editors, each with its own legion of devo
 Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable, and simply excellent text editors. Anyone who considers themselves a programmer or who wants to be one should give both a try, and be able to at least write a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
 
 
-### Terminal Shell
+### Command Line
+
+The [command line](https://en.wikipedia.org/wiki/Command-line_interface) is a text-based interface to your computer's operating system. Terms such as *command prompt*, *[terminal](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line/506628#506628)*, *[shell](https://en.wikipedia.org/wiki/Shell_%28computing%29#Text_.28CLI.29_shells)*, *shell prompt*, and others are often used interchangeably, but for our purposes I'll just use **command line**.
+
+Both [macOS](https://www.apple.com/macos/) and [Linux](https://www.linuxfoundation.org/projects/linux/) distributions provide a command line interface through built-in terminal applications: [macOS Terminal](https://support.apple.com/guide/terminal/welcome/mac), [Ubuntu terminal](). Terminal applications can be added to Microsoft [Windows]()https://www.microsoft.com/en-us/windows, including the [Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview) for Windows 10 through [Ubuntu on Windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab).
+
+Here are two good resources for learning to work with the command line.
+
+- [https://programminghistorian.org/en/lessons/intro-to-bash](https://programminghistorian.org/en/lessons/intro-to-bash)
+- [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ### Compiler and Runtime Environment
 
