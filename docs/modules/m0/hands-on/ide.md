@@ -1,8 +1,8 @@
 # Hands-On: Development Environment
 
 To complete the work in this course you will need a **development
-environment** -- a collection of  tools with which you build software.
-Development environments range from the small and simple to the very large and
+environment** -- a collection of tools with which you build software.
+Development environments range from the small and simple to the large and
 complex, but at the core of each is the
 [compiler](https://en.wikipedia.org/wiki/Compiler) and 
 [runtime system](https://en.wikipedia.org/wiki/Runtime_system) of the programming
@@ -10,11 +10,11 @@ language being used. At a minimum, a development environment must provide the
 tools necessary for you to write a program as a 
 [text file](https://en.wikipedia.org/wiki/Text_file), translate the program into an
 executable form, and then run/execute the program on a computer. For the
-purposes of this course it's important to choose a development that is a
+purposes of this course it will be important to choose a development that is a
 ["Goldilocks fit"](https://en.wikipedia.org/wiki/Goldilocks_principle) for you
 -- not too little, not too much, but just right.
 
-After the discussion below I offer a suggestion of how you might make your choice of a development environment for this course.
+After the sections below I offer a suggestion on how you might choose a development environment for this course.
 
 
 ## Java Development Kit (JDK)
@@ -30,10 +30,10 @@ extensive software libraries - everything you need to develop software in
 Java, except for an editor to create source code text files.
 
 To work on your own computer, you must download and install the Java SE JDK
-from either
+from 
 [Oracle](https://www.oracle.com/technetwork/java/javase/overview/index.html)
 or the [essentially identical](https://blogs.oracle.com/java-platform-group/oracle-jdk-releases-for-java-11-and-later)
-open source [OpenJDK](https://openjdk.java.net/). The latest release is
+open source [OpenJDK](https://openjdk.java.net/). The latest release of the JDK is
 recommended, although version 7 or above will be sufficient for this course.
 
 Here are direct links to the latest Java SE JDK downloads from both Oracle and OpenJDK.
@@ -49,7 +49,7 @@ software application that provides access within a single interface to a
 variety of tools such as an editor, compiler, debugger, runtime environment,
 and so on.
 
-While there are many IDEs available for Java, here are three that I can recommend.
+While there are many IDEs available for Java, here are some that I can recommend.
 
 ### jGRASP
 
@@ -84,7 +84,7 @@ to provide the object viewers from within the Eclipse environment.
 [Vocareum](https://www.vocareum.com/), the cloud-based auto-grading tool that
 we will use in this course, provides a simple IDE. You will be required to use
 this IDE for the lab tests, and you can use this IDE for the programming
-assignments if you like.
+assignments if you like. More details and instructions regarding Vocareum will be provided in a separate activity.
 
 
 ## Editor + Command Line
@@ -115,7 +115,7 @@ Both Sublime and Atom are supported by extensive package managers that allow fea
 
 #### Emacs and vi
  
-Emacs and vi are the old guard of text editors, each with its own legions of devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, the other would have poisoned them. Think I'm kidding or exaggerating? [I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
+Emacs and vi are the old guard of text editors, each with its own legion of devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, the other would have poisoned them. Think I'm kidding or exaggerating? [I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
 
 Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable, and simply excellent text editors. Anyone who considers themselves a programmer or who wants to be one should give both a try, and be able to at least write a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
 
