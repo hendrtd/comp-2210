@@ -97,34 +97,74 @@ environment.
 - Using an IDE can confuse the separation between a program, the IDE, the language, and the different tools being used.
 - Being able to work at the command line with fundamental programming tools is important.
 
-The minimum tools necessary to work in this mode are an editor, a Java compiler, a Java runtime environment, and a terminal/shell/command-line window.
+The minimum tools necessary to work in this mode are an editor, a Java
+compiler, a Java runtime environment, and a terminal/shell/command-line
+window.
 
 ### Text Editors
 
-A good text editor can be used for far more than programming, and this is another advantage of going this route. Once you get comfortable with a powerful text editor, you'll want to use it for most everything.
+A good text editor can be used for far more than programming, and this is
+another advantage of going this route. Once you get comfortable with a
+powerful text editor, you'll want to use it for most everything.
 
 #### Sublime and Atom
 
-Sublime Text and Atom are modern, powerful text editors that are very similar in functionality but dramatically different in implementation. 
+Sublime Text and Atom are modern, powerful text editors that are very similar
+in functionality but dramatically different in implementation. 
 
-[Sublime](https://www.sublimetext.com/) is implemented in C++ and Python and offers significant speed even under heavy workloads. Sublime is a closed-source project developed by a small private company (Sublime HQ) in Australia. A limited version of Sublime is available for free, but the full version - with all the nice features you really want - must be purchased.
+[Sublime](https://www.sublimetext.com/) is implemented in C++ and Python and 
+offers significant speed even under heavy workloads. Sublime is a
+closed-source project developed by a small private company (Sublime HQ) in
+Australia. A limited version of Sublime is available for free, but the full
+version - with all the nice features you really want - must be purchased.
 
-[Atom](https://atom.io/) is implemented using web technologies (Chromium, JavaScript, CoffeeScript, etc.) and sacrifices speed for extreme customization capabilities ("hackable" is the term used by its developers). Atom is an open-source project developed by GitHub and maintained by a large developer base. Atom is completely free.
+[Atom](https://atom.io/) is implemented using web technologies  (Chromium,
+JavaScript, CoffeeScript, etc.) and sacrifices speed for extreme customization
+capabilities ("hackable" is the term used by its developers). Atom is an
+open-source project developed by GitHub and maintained by a large developer
+base. Atom is completely free.
 
-Both Sublime and Atom are supported by extensive package managers that allow features to be added and removed. Certain collections of features can offer a level of tool integration that can feel like a simple IDE.
+Both Sublime and Atom are supported by extensive package managers that allow
+features to be added and removed. Certain collections of features can offer a
+level of tool integration that can feel like a simple IDE.
 
 #### Emacs and vi
  
-Emacs and vi are the old guard of text editors, each with its own legion of devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, the other would have poisoned them. Think I'm kidding or exaggerating? [I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
+Emacs and vi are the old guard of text editors, each with its own legion of 
+devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war)
+coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. 
+This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, 
+the other would have poisoned them. Think I'm kidding or exaggerating? 
+[I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
 
-Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable, and simply excellent text editors. Anyone who considers themselves a programmer or who wants to be one should give both a try, and be able to at least write a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
+Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) 
+and vi (now [Vim](https://www.vim.org/)) are extremely powerful, 
+extremely stable, and simply excellent text editors. Anyone who considers 
+themselves a programmer or who wants to be one should give both a try, 
+and be able to at least write a 
+[Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
 
 
 ### Command Line
 
-The [command line](https://en.wikipedia.org/wiki/Command-line_interface) is a text-based interface to your computer's operating system. Terms such as *command prompt*, *[terminal](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line/506628#506628)*, *[shell](https://en.wikipedia.org/wiki/Shell_%28computing%29#Text_.28CLI.29_shells)*, *shell prompt*, and others are often used interchangeably, but for our purposes I'll just use **command line**.
+The [command line](https://en.wikipedia.org/wiki/Command-line_interface) 
+is a text-based interface to your computer's operating system. Terms such as 
+*command prompt*, *[terminal](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line/506628#506628)*, 
+*[shell](https://en.wikipedia.org/wiki/Shell_%28computing%29#Text_.28CLI.29_shells)*, 
+*shell prompt*, and others are often used interchangeably, but for our purposes 
+I'll just use **command line**.
 
-Both [macOS](https://www.apple.com/macos/) and [Linux](https://www.linuxfoundation.org/projects/linux/) distributions provide a command line interface through built-in terminal applications: [macOS Terminal](https://support.apple.com/guide/terminal/welcome/mac), [Ubuntu terminal](). Terminal applications can be added to Microsoft [Windows]()https://www.microsoft.com/en-us/windows, including the [Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview) for Windows 10 through [Ubuntu on Windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab).
+Both [macOS](https://www.apple.com/macos/) and 
+[Linux](https://www.linuxfoundation.org/projects/linux/) 
+distributions provide a command line interface through built-in terminal applications: 
+[macOS Terminal](https://support.apple.com/guide/terminal/welcome/mac), 
+[Ubuntu terminal](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview). 
+Terminal applications can be added to 
+Microsoft [Windows](https://www.microsoft.com/en-us/windows), 
+including the 
+[Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview)
+for Windows 10 
+through [Ubuntu on Windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab).
 
 Here are two good resources for learning to work with the command line.
 
