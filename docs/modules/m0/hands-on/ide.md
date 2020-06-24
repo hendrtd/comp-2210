@@ -99,17 +99,22 @@ environment.
 
 The minimum tools necessary to work in this mode are an editor, a Java compiler, a Java runtime environment, and a terminal/shell/command-line window.
 
-### Good text editors
+### Text Editors
 
 A good text editor can be used for far more than programming, and this is another advantage of going this route. Once you get comfortable with a powerful text editor, you'll want to use it for most everything.
 
-#### Sublime Text
+#### Sublime and Atom
 
-#### Atom
+Sublime Text and Atom are modern, powerful text editors that are very similar in functionality but dramatically different in implementation. 
 
-#### Vim
+[Sublime](https://www.sublimetext.com/) is implemented in C++ and Python and offers significant speed even under heavy workloads. Sublime is a closed-source project developed by a small private company (Sublime HQ) in Australia. A limited version of Sublime is available for free, but the full version - with all the nice features you really want - must be purchased.
 
-#### Emacs
+[Atom](https://atom.io/) is implemented using web technologies (Chromium, JavaScript, CoffeeScript, etc.) and sacrifices speed for extreme customization capabilities ("hackable" is the term used by its developers). Atom is an open-source project developed by GitHub and maintained by a large developer base. Atom is completely free.
+
+Both Sublime and Atom are supported by extensive package managers that allow features to be added and removed. Some collections of features can offer a level of tool integration that approaches a simple IDE.s
+
+#### Vim and Emacs
+ 
 
 
 ### Terminal Shell
