@@ -93,8 +93,8 @@ While IDEs can provide convenience and power, there are reasons that you might
 want to use a small set of separate tools rather than an integrated
 environment.
 
-- Using an IDE can make it easy to not understand what lower-level tools are being used when a program is compiled, executed, tested, and debugged.
-- Using an IDE can make it easy to misunderstand the separation between a program, the IDE, the language, and the different tools being used.
+- Using an IDE can obscure what lower-level tools are being used when a program is compiled, executed, tested, and debugged.
+- Using an IDE can confuse the separation between a program, the IDE, the language, and the different tools being used.
 - Being able to work at the command line with fundamental programming tools is important.
 
 The minimum tools necessary to work in this mode are an editor, a Java compiler, a Java runtime environment, and a terminal/shell/command-line window.
