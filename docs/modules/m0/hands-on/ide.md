@@ -186,8 +186,7 @@ Here are two good resources for learning to work with the command line.
 - [https://programminghistorian.org/en/lessons/intro-to-bash](https://programminghistorian.org/en/lessons/intro-to-bash)
 - [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile#:~:text=A%20makefile%20is%20a%20file,to%20generate%20a%20target%2Fgoal.)
-are very helpful if you work at the command line. Here's a good tutorial: [https://www.gnu.org/software/make/manual/html_node/Introduction.html](https://www.gnu.org/software/make/manual/html_node/Introduction.html).
+And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile) are very helpful if you work at the command line. Here's a good tutorial: [https://www.gnu.org/software/make/manual/html_node/Introduction.html](https://www.gnu.org/software/make/manual/html_node/Introduction.html).
 
 ### Compiler and Runtime Environment
 
