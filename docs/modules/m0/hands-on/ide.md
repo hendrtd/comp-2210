@@ -113,8 +113,11 @@ Sublime Text and Atom are modern, powerful text editors that are very similar in
 
 Both Sublime and Atom are supported by extensive package managers that allow features to be added and removed. Certain collections of features can offer a level of tool integration that can feel like a simple IDE.
 
-#### Vim and Emacs
+#### Emacs and vi
  
+Emacs and vi are the old guard of text editors, each with its own legions of devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, the other would have poisoned them. Think I'm kidding or exaggerating? [I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
+
+Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable, and simply excellent text editors. Anyone who considers themselves a programmer or who wants to be one should give both a try, and be able to at least write a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
 
 
 ### Terminal Shell
