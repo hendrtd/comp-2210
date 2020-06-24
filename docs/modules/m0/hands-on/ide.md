@@ -111,7 +111,7 @@ Sublime Text and Atom are modern, powerful text editors that are very similar in
 
 [Atom](https://atom.io/) is implemented using web technologies (Chromium, JavaScript, CoffeeScript, etc.) and sacrifices speed for extreme customization capabilities ("hackable" is the term used by its developers). Atom is an open-source project developed by GitHub and maintained by a large developer base. Atom is completely free.
 
-Both Sublime and Atom are supported by extensive package managers that allow features to be added and removed. Some collections of features can offer a level of tool integration that approaches a simple IDE.s
+Both Sublime and Atom are supported by extensive package managers that allow features to be added and removed. Certain collections of features can offer a level of tool integration that can feel like a simple IDE.
 
 #### Vim and Emacs
  
