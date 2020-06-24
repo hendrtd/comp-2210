@@ -22,8 +22,14 @@ There is quite of bit of material here, so you can jump to a particular section 
 	- [IntelliJ](#intellij)
 	- [Eclipse](#eclipse)
 	- [Vocareum](#online-ide-provided-by-vocareum)
-- [Editor + Command Line](#editor-+-command-line)
+- [Editor + Command Line](#editor--command-line)
 	- [Text Editors](#text-editors)
+	- [Command Line](#command-line)
+	- [Compiler and Runtime Environment](#compiler-and-runtime-environment)
+- [JUnit](#testing-framework-junit)
+- [Checkstyle](#style-auditor-checkstyle)
+- [Git](#source-control-git)
+- [Which is right for you?](#which-environment-is-right-for-you)
 
 
 ## Java Development Kit (JDK)
