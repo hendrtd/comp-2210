@@ -178,7 +178,7 @@ Souvika Sarkar | `szs0239@auburn.edu` | TBA | TBA
 Your grade for the course will be determined by the points you earn on items
 in the following categories.
 
-- **Exams** (40%): There will be three exams in the course, including the final exam. Dates for the first two exams will be set and announced at least one week in advance. The final exam will be given on the last lab day of the course. All three exams will be administered online using the Honorlock proctoring system.
+- **Exams** (40%): There will be three exams in the course, including the final exam. Dates for the first two exams will be set and announced at least one week in advance. All three exams will be administered online using the Honorlock proctoring system.
 
 - **Lab Tests** (25%): There will be three programming-based tests in the course. Dates for each will be set and announced at least one week in advance. All three tests will be administered online using the Honorlock proctoring system. Lab Test grades will be based on the percentage of test cases passed on Vocareum. Passing zero test cases will result in a grade of zero points.
 
