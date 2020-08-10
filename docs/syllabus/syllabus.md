@@ -330,11 +330,14 @@ and the collaboration is allowed only within the bounds set by the instructor.
 
 Your Auburn University email address (`@auburn.edu`) is the university-approved form of communication between instructors and students. Email is preferred to the Canvas messaging feature. Emails that you send to the instructor or to a teaching assistant should come from your `@auburn.edu` email address. Sending emails from addresses other than `@auburn.edu` could result in you not receiving a response to your message.
 
-All course announcements will be posted to Canvas and/or sent to your `@auburn.edu` address. All email communications from the instructor to you will be sent to your `@auburn.edu` address. You are expected to check both Canvas and your `@auburn.edu` account daily.
-
-Follow the steps in the video linked [here](https://community.canvaslms.com/t5/Video-Guide/Notification-Preferences-All-Users/ta-p/383690) to set your notifications preferences and specify that all course alerts are routed to your Auburn University email address (userid@auburn.edu). You can contact Auburn University's OIT Help Desk  (Links to an external site.)for assistance forwarding mail sent to your Auburn email address to a different email address that you regularly check. Additionally, it is your responsibility to read course announcements sent by your instructor. These are posted in Canvas, and you can configure your notification preferences to receive an email each time a new announcement is posted.
-
-You are responsible for checking your TigerMail email each day. You are required to set your Canvas Notification Preferences to email your TigerMail account right away for new announcements and for conversations to which you are added.  Per the \textit{Student Policy eHandbook}, email sent to your TigerMail account is considered official University communication and you are held responsible for it.
+All course announcements will be posted to Canvas and/or sent to your
+`@auburn.edu` address. All email communications from the instructor to you
+will be sent to your `@auburn.edu` address. Follow the steps in the video
+linked
+[here](https://community.canvaslms.com/t5/Video-Guide/Notification-Preferences-All-Users/ta-p/383690)
+to set your notifications preferences and specify that all course alerts are
+routed to your `@auburn.edu` email address. You are expected to check both
+Canvas and your `@auburn.edu` account daily. 
 
 ## Getting Help in the Course
 
