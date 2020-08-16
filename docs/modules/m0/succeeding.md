@@ -107,7 +107,7 @@ to practice.
 
 Here are a few resources on practice:
 
-- https://www.harvardbusiness.org/the-importance-of-practice-and-our-reluctance-to-do-it/
-- https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice
-- https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning
+- <https://www.harvardbusiness.org/the-importance-of-practice-and-our-reluctance-to-do-it/>
+- <https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice?>
+- <https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning>
 <!-- - https://www.apa.org/education/k12/practice-acquisition -->
