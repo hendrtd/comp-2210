@@ -190,6 +190,14 @@ And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile) are very helpfu
 
 ### Compiler and Runtime Environment
 
+The JDK includes commands to invoke the Java compiler and the Java runtime environment (JRE) from the command line. The compiler can be invoked with the `javac` command and the JRE can be invoked with the `java` command.
+
+Once the JDK is installed, you can compile and run the Java source code file `WarEagle.java` from the command line as follows. (The `$` character represents the command-line prompt.)
+
+```bash
+$ javac WarEagle.java
+$ java WarEagle
+```
 
 ## Testing Framework - JUnit
 
