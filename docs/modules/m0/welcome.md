@@ -19,5 +19,3 @@ By the end of this course, you should be able to:
 - Apply standard collections, data structures, and associated algorithms in the creation of solutions.
 - Assess algorithms and software components with respect to time complexity.
 
-
-
