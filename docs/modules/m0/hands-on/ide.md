@@ -201,8 +201,9 @@ $ java WarEagle
 
 ## Testing Framework - JUnit
 
+[JUnit](https://en.wikipedia.org/wiki/JUnit) is a framework for [unit testing](https://en.wikipedia.org/wiki/Unit_testing) software written in Java. Writing good test cases is an important skill to develop, and you are strongly encouraged to write JUnit test cases for all your assignments.
 
-## Style Auditor - Checkstyle
+You can learn more about JUnit and install version 4.12 from [this link](https://junit.org/junit4/).
 
 
 ## Source Control - Git
