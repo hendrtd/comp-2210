@@ -29,7 +29,6 @@ There is quite of bit of material here, so you can jump to a particular section 
 - [JUnit](#testing-framework---junit)
 - [Checkstyle](#style-auditor---checkstyle)
 - [Git](#source-control---git)
-- [Which is right for you?](#which-environment-is-right-for-you)
 
 
 ## Java Development Kit (JDK)
@@ -213,6 +212,5 @@ If you want to get a head start on using a professional tool for backup, synchro
 If you use git you may also want to use a web-based code hosting service like [GitHub](https://github.com/). I support the use of hosting services, but all assignment-related code must be kept strictly in private repositories during the semester. Services such as GitHub, [BitBucket](https://bitbucket.org/product), and [GitLab](https://about.gitlab.com/) all offer free private repos for educational use.
 
 
-## Which environment is right for you?
 
 
