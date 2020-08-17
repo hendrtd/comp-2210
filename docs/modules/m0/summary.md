@@ -1,10 +1,9 @@
 # Reflecting on the Module
 
 This module has provided an overview of the course and asked you to take some
-getting-started steps with different learning tools you will be using,
-including Canvas, Honorlock, MATLAB, and the course zyBook. You've even had
-the opportunity to earn points toward your grade through the Participation
-Activities embedded inside the zyBook sections in this module.
+getting-started steps with different learning tools you will be using. You've
+even had the opportunity to earn points toward your grade through the Hands-On
+Activities.
 
 Take time now to review and reflect on this module and the work you've done.
 
