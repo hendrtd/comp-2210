@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 10, 2020; Updated: August 10, 2020*
+*Published: August 10, 2020; Updated: August 17, 2020*
 
 ---
 
@@ -18,7 +18,7 @@ course activities in which you are expected to participate remotely during the
 scheduled class time. The following are the synchronous activities of this
 course:
 
-- *Lecture meetings*: Each Tuesday and Thursday I will hold a live Zoom session during the scheduled lecture time (8:00 AM CT - 9:15 AM CT). This live session is optional but encouraged.
+- *Lecture meetings*: Each Tuesday and Thursday I will hold a live Zoom session during the scheduled lecture time (8:00 AM CT - 9:15 AM CT). This live session is optional but encouraged. You can join the Zoom meeting here: <https://auburn.zoom.us/j/95356330644>
 
 - *Lab meetings*: Each Tuesday and Thursday your TA will hold a live Zoom session during your scheduled lab time (varies by section). This live session is optional but encouraged.
 
