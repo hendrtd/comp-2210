@@ -208,6 +208,10 @@ You can learn more about JUnit and install version 4.12 from [this link](https:/
 
 ## Source Control - Git
 
+If you want to get a head start on using a professional tool for backup, synchronization, and more, then you could explore the use of [git](https://git-scm.com/). This carries a steep learning curve and isn't necessary for this course so ... *caveat discipulus*.
+
+If you use git you may also want to use a web-based code hosting service like [GitHub](https://github.com/). I support the use of hosting services, but all assignment-related code must be kept strictly in private repositories during the semester. Services such as GitHub, [BitBucket](https://bitbucket.org/product), and [GitLab](https://about.gitlab.com/) all offer free private repos for educational use.
+
 
 ## Which environment is right for you?
 
