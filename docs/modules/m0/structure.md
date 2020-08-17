@@ -39,10 +39,11 @@ M3 | Mon 21 Sep | Sun 4 Oct
 M4 | Mon 5 Oct | Sun 18 Oct
 M5 | Mon 19 Oct | Sun 1 Nov
 M6 | Mon 2 Nov | Sun 15 Nov
-M7 | Mon 16 Nov | Sun 6 Dec
+M7 | Mon 16 Nov | Tue 24 Nov
 
 Module 7 has less content to account for final exam preparation and other end
-of term issues.
+of term issues. (Note: The Fall 2020 calendar was shortened due to the
+COVID-19 response, and the dates above reflect this modified calendar.)
 
 # Module Structure
 
