@@ -78,7 +78,7 @@ one of these texts will serve you well for the course. Both Bailey and Shaffer
 are available as **free** PDF downloads, while Weiss and Sedgewick are
 available for purchase from Amazon and other booksellers.
 
-> **Bailey**, Duane A. (2007). *Java Structures: Data Structures in Java for the Principled Programmer, $$\sqrt{7}$$ Edition*. [http://dept.cs.williams.edu/~bailey/](http://dept.cs.williams.edu/~bailey/)
+> **Bailey**, Duane A. (2007). *Java Structures: Data Structures in Java for the Principled Programmer, $$\sqrt{7}$$ Edition*. [http://www.cs.williams.edu/~bailey/JavaStructures/Welcome.html](http://www.cs.williams.edu/~bailey/JavaStructures/Welcome.html)
 >
 > **Shaffer**, Clifford A. (2013). *Data Structures and Algorithm Analysis, 3.2 (Java version)*. [http://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf](http://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf)
 >
