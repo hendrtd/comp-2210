@@ -160,15 +160,13 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Lab Section | Office Hours
+GTA | Email | Lab Section | Office Hours | Zoom ID 
 --- | ----- | ------- | ------------
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | TBA | TBA
-Abhishek Kulkarni | `aak0010@auburn.edu` | TBA | TBA
-Ujan Mukhopadyhay | `uzm0002@auburn.edu` | TBA | TBA
-Aamir Rafi | `azr0087@auburn.edu` | TBA | TBA
-Souvika Sarkar | `szs0239@auburn.edu` | TBA | TBA
-
-
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | 001, 004 | TBA | TBA
+Abhishek Kulkarni | `aak0010@auburn.edu` | 008, 009 | TBA | TBA
+Ujan Mukhopadyhay | `uzm0002@auburn.edu` | 005, 007 | TBA | TBA
+Aamir Rafi | `azr0087@auburn.edu` | 003, 006 | TBA | TBA
+Souvika Sarkar | `szs0239@auburn.edu` | 002 | TBA | TBA
 
 
 ---
