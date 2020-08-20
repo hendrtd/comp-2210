@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 10, 2020; Updated: August 17, 2020*
+*Published: August 10, 2020; Updated: August 20, 2020*
 
 ---
 
