@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 10, 2020; Updated: August 20, 2020*
+*Published: August 10, 2020; Updated: August 24, 2020*
 
 ---
 
@@ -155,18 +155,18 @@ Auburn, AL 36849
 +1 334 844 6305  
 `dh@auburn.edu`  
 <http://eng.auburn.edu/csse>  
-<https://auburn.zoom.us/my/deanhendrix>  
+**Office Hours:** MW 10-11 AM <https://auburn.zoom.us/my/deanhendrix>  
 
 
 ## Teaching Assistants
 
 GTA | Email | Lab Section | Office Hours | Zoom ID 
---- | ----- | ------- | ------------
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | 001, 004 | TBA | TBA
-Abhishek Kulkarni | `aak0010@auburn.edu` | 008, 009 | TBA | TBA
-Ujan Mukhopadyhay | `uzm0002@auburn.edu` | 005, 007 | TBA | TBA
-Aamir Rafi | `azr0087@auburn.edu` | 003, 006 | TBA | TBA
-Souvika Sarkar | `szs0239@auburn.edu` | 002 | TBA | TBA
+--- | ----- | ----------- | ------------ | -------
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | 001, 004 | F 10-11:30 AM | <https://auburn.zoom.us/j/3344980832>   
+Abhishek Kulkarni | `aak0010@auburn.edu` | 008, 009 | W 1-2 PM | <https://auburn.zoom.us/j/2235097711>
+Ujan Mukhopadyhay | `uzm0002@auburn.edu` | 005, 007 | M 11-Noon | <https://auburn.zoom.us/j/2435697375>
+Aamir Rafi | `azr0087@auburn.edu` | 003, 006 | T 2-3 PM | <https://auburn.zoom.us/j/9065872507>
+Souvika Sarkar | `szs0239@auburn.edu` | 002 | F 10-11 AM | <https://auburn.zoom.us/j/9430661417>
 
 
 ---
