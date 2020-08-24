@@ -162,11 +162,14 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Office Hours | Zoom ID 
 --- | ----- | ----------- | ------------ | -------
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | 001, 004 | F 10-11:30 AM | <https://auburn.zoom.us/j/3344980832>   
-Abhishek Kulkarni | `aak0010@auburn.edu` | 008, 009 | W 1-2 PM | <https://auburn.zoom.us/j/2235097711>
-Ujan Mukhopadyhay | `uzm0002@auburn.edu` | 005, 007 | M 11-Noon | <https://auburn.zoom.us/j/2435697375>
-Aamir Rafi | `azr0087@auburn.edu` | 003, 006 | T 2-3 PM | <https://auburn.zoom.us/j/9065872507>
-Souvika Sarkar | `szs0239@auburn.edu` | 002 | F 10-11 AM | <https://auburn.zoom.us/j/9430661417>
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | 001, 004 | F 10-11:30 AM | 3344980832   
+Abhishek Kulkarni | `aak0010@auburn.edu` | 008, 009 | W 1-2 PM | 2235097711
+Ujan Mukhopadyhay | `uzm0002@auburn.edu` | 005, 007 | M 11-Noon | 2435697375
+Aamir Rafi | `azr0087@auburn.edu` | 003, 006 | T 2-3 PM | 9065872507
+Souvika Sarkar | `szs0239@auburn.edu` | 002 | F 10-11 AM | 9430661417
+
+
+All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
 
 
 ---
