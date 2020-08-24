@@ -137,7 +137,7 @@ or equal to `key`. Examples:
 
 - You may add any number of private methods that you like, but you may not add any public method or constructor, nor may you change the signature of any public method or constructor.
 
-- You must not add any fields, either public or private, to the \texttt{Selector} class.
+- You must not add any fields, either public or private, to the `Selector` class.
 
 - The `java.util.Arrays` class has been imported for you. You are free to delete this import statement if you do not use any methods from the `Arrays` class in your solutions.
 
