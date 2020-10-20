@@ -85,7 +85,7 @@ public class ExampleGameClient {
        System.out.print("POPE is not on the board: ");
        System.out.println(game.isOnBoard("POPE"));
        System.out.println("All words of length 6 or more: ");
-       System.out.println(game.getAllValidWords(6));
+       System.out.println(game.getAllScorableWords(6));
     }
 }
 ```
@@ -190,10 +190,10 @@ format that is most helpful to you. This method will not be tested or graded.
 
 ## Methods related to game play
 
-The methods that implement game play options are `getAllValidWords`,
-`isOnBoard`, and `getScoreForWords`. The `getAllValidWords` method returns a
+The methods that implement game play options are `getAllScorableWords`,
+`isOnBoard`, and `getScoreForWords`. The `getAllScorableWords` method returns a
 [`SortedSet`](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/SortedSet.html)
-of strings containing all words on the board that are of a specified minimum
+of strings containing all scorable words on the board that are of a specified minimum
 length and can be constructed according to the game rules. If no words can be
 found, this method returns an empty `SortedSet`. 
 
@@ -209,7 +209,7 @@ For example, `isOnBoard("PEACE")` would return the list `[7, 6, 3, 2, 1]`.
 
 ![Example board for isOnBoard("PEACE");](img/isOnBoard.png)
 
-Both `getAllValidWords` and `isOnBoard` can be implemented using slightly
+Both `getAllScorableWords` and `isOnBoard` can be implemented using slightly
 different versions of depth-first search. The specific depth-first algorithms
 that you implement must be efficient enough for use on large game boards with
 large lexicons.
