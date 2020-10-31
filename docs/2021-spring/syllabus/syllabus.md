@@ -1,42 +1,31 @@
 
 ---
 
-# COMP 2210 Fundamentals of Computing II <br> Fall 2020 Course Syllabus
+# COMP 2210 Fundamentals of Computing II <br> Spring 2021 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 10, 2020; Updated: August 24, 2020*
+*Published: October 21, 2020*
 
 ---
 
 # Instructional Mode
 
-The instructional mode for this course is *Online Synchronous*. The course
-will be conducted online in its entirety, and you will not have to be on
-campus for any part of this course. There will be optional synchronous online
-course activities in which you are expected to participate remotely during the
-scheduled class time. The following are the synchronous activities of this
-course:
+The instructional mode for this course is 
+[*Face-to-Face Required*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf).  In
+brief, this means that at least half of the contact hours for this course will
+involve in-person activities; you will be expected to attend all such
+activities and required to attend some. The details of this are as follows.
 
-- *Lecture meetings*: Each Tuesday and Thursday I will hold a live Zoom session during the scheduled lecture time (8:00 AM CT - 9:15 AM CT). This live session is optional but encouraged. You can join the Zoom meeting here: <https://auburn.zoom.us/j/95356330644>
+- *Lecture meetings*: Each Tuesday and Thursday I will hold an in-person class meeting during the scheduled lecture time (8:00 AM CT - 9:15 AM CT). This in-person class meeting is optional but encouraged. A maximum attendance of 50% room capacity will be strictly enforced.
 
-- *Lab meetings*: Each Tuesday and Thursday your TA will hold a live Zoom session during your scheduled lab time (varies by section). This live session is optional but encouraged.
+- *Lab meetings*: Each Tuesday and Thursday your TA will hold an in-person class meeting during your scheduled lab time (varies by section). This in-person class meeting is optional but encouraged. A maximum attendance of 50% room capacity will be strictly enforced.
 
-- *Exams and Tests*: Exams and Programming Tests will be given during scheduled lab times.
+- *Exams and Tests*: Exams and Programming Tests will be given in-person during scheduled lab times in the schedule lab room. Attendance is required for each exam and test.
 
 - *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
 
-You are expected to have all the equipment and software needed to be
-successful in this course. At a minimum, you must have what is described in
-the *Instructional Technology for Students* section of the [Academic Re-Entry
-Plan](https://ahealthieru.auburn.edu/). You must have a computer and a
-broadband Internet connection capable of installing and reliably running both
-[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
-and [Honorlock](https://honorlock.com/support/). If you have needs regarding
-instructional technology, you should contact the AU Bookstore at
-`books@auburn.edu`.
 
-Times for all course events (assignment deadlines, exam times, etc.) will be set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may not correspond to the time zone in which you will be living and studying this fall. You are responsible for meeting deadlines in Central Time regardless of what your local time zone may be. You may find it helpful to follow the instructions linked [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to have Canvas show deadlines appropriately in your local time zone to avoid any confusion.
 
 # Course Description
 
