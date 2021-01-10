@@ -28,21 +28,21 @@ ends on the first Sunday of the term. Each module 1-7 begins on a Monday and
 ends on a Sunday. The duration of each module 1-7 is the same but varies by
 term (14 days for fall/spring, 10 days for summer, and 7 days for half-term).
 
-Here is the specific schedule for [Fall 2020](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the specific schedule for [Spring 2021](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon 17 Aug | Sun 23 Aug
-M1 | Mon 24 Aug | Sun 6 Sep
-M2 | Mon 7 Sep | Sun 20 Sep
-M3 | Mon 21 Sep | Sun 4 Oct
-M4 | Mon 5 Oct | Sun 18 Oct
-M5 | Mon 19 Oct | Sun 1 Nov
-M6 | Mon 2 Nov | Sun 15 Nov
-M7 | Mon 16 Nov | Tue 24 Nov
+M0 | Mon 11 Jan | Sun 17 Jan
+M1 | Mon 18 Jan | Sun 31 Jan
+M2 | Mon 1 Feb | Sun 14 Feb
+M3 | Mon 15 Feb | Sun 28 Feb
+M4 | Mon 1 Mar | Sun 14 Mar
+M5 | Mon 15 Mar | Sun 28 Mar
+M6 | Mon 29 Mar | Sun 11 Apr
+M7 | Mon 12 Apr | Thu 22 Apr
 
 Module 7 has less content to account for final exam preparation and other end
-of term issues. (Note: The Fall 2020 calendar was shortened due to the
+of term issues. (Note: The Spring 2021 calendar was modified due to the
 COVID-19 response, and the dates above reflect this modified calendar.)
 
 # Module Structure
