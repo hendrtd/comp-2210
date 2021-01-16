@@ -15,7 +15,7 @@ Auburn University sent the following communication to all faculty on January 15,
 
 > After consideration of current public health scenarios, Auburn will extend the current remote operations through Sunday, Jan. 31.
 
-In accordance with extension of remote operations, this course will be taught remotely from January 11 through January 31, and will transition to the originally-published modality on February 1, 2021. More information is given below.
+In accordance with the extension of remote operations, this course will be taught remotely from January 11 through January 31, and will transition to the originally-published modality on February 1, 2021. More information is given below.
 
 ## January 11 Through January 31
 
