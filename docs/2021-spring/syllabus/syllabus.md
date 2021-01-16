@@ -5,19 +5,19 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: October 31, 2020; Updated: January 8, 2021*
+*Published: October 31, 2020; Updated: January 15, 2021*
 
 ---
 
 # Instructional Mode
 
-Auburn University sent the following communication to all faculty on December 29, 2020:
+Auburn University sent the following communication to all faculty on January 15, 2021:
 
-> The spring semester will proceed as scheduled. In an effort to gradually increase campus density, faculty offering face-to-face classes may choose to begin the semester remotely for up to two weeks. Faculty will communicate any changes to their students.
+> After consideration of current public health scenarios, Auburn will extend the current remote operations through Sunday, Jan. 31.
 
-To aid the gradual return to campus, this course will be taught remotely from January 11 through January 24, and will transition to the originally-published modality on January 25, 2021. More information is given below.
+In accordance with extension of remote operations, this course will be taught remotely from January 11 through January 31, and will transition to the originally-published modality on February 1, 2021. More information is given below.
 
-## January 11 Through January 24
+## January 11 Through January 31
 
 The instructional mode for this course will be
 [*Online Synchronous*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
@@ -48,7 +48,7 @@ you should contact the AU Bookstore at `books@auburn.edu`.
 
 Times for all course events (assignment deadlines, exam times, etc.) will be set in US [Central Time](https://www.timeanddate.com/time/zones/ct). You are responsible for meeting deadlines in Central Time regardless of what your local time zone may be. You may find it helpful to follow the instructions linked [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to have Canvas show deadlines appropriately in your local time zone to avoid any confusion.
 
-## January 25 Through End-Of-Term
+## February 1 Through End-Of-Term
 
 The instructional mode for this course will be 
 [*Face-to-Face Required*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
