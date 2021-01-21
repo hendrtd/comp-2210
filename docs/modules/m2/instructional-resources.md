@@ -1,9 +1,9 @@
 # Lecture Notes
 
-- Efficiency
-- Algorithm Analysis
-- Sorting
-- Recursion
+- [Efficiency](notes/04-Efficiency.pdf)
+- [Algorithm Analysis](notes/05-Algorithm_Analysis.pdf)
+- [Sorting](06-Sorting.pdf)
+- [Recursion](07-Recursion.pdf)
 
 # Supplemental Readings
 
