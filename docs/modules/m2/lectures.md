@@ -11,7 +11,6 @@ like it would be an important aspect of our solutions, but it is necessary to
 first clearly define what we mean by the term and then decide how we can
 define, measure, and ensure it in the software that we build.
 
-<iframe src="https://auburn.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 ### Introduction to Efficiency
@@ -20,6 +19,8 @@ For as long as people have been building machines and automating tasks, they
 have wanted to find ways of making things faster. The same is true in
 software, but as we will see in this video, we have to exercise caution and
 know when efficiency actually matters and how best to achieve it.
+
+<iframe src="https://auburn.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 ### Linear Search: Avoiding Wasted Time and Effort
