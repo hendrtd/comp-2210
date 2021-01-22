@@ -69,6 +69,8 @@ This video sets the stage for the exploration of algorithm analysis by
 discussing its importance and providing a real-life illustration of its
 relevance.
 
+>[:movie_camera: *Algorithm Analysis Introduction*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ba1d649-aff2-4a8e-96be-acb7012a47fb)
+
 
 ### Empirical Analysis
 
@@ -78,6 +80,8 @@ conclusions from our analysis of that data. This video discusses one
 particular type of empirical analysis that is often straightforward to perform
 and yields useful information.
 
+>[:movie_camera: *Empirical Analysis*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01f6b58f-51b5-47bd-8f0d-acb7012a5579)
+
 
 ### Mathematical Analysis
 
@@ -86,11 +90,15 @@ the operations performed by an algorithm and using the resulting expression to
 describe the algorithm’s underlying time complexity. This video introduces a
 simplified mathematical analysis for algorithms.
 
+>[:movie_camera: *Mathematical Analysis*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3a67f60-dd85-4970-909b-acb7012a5752)
+
 
 ### Analysis of Binary Search
 
 This video illustrates how we can apply the mathematical approach to algorithm
 analysis to describe the time complexity of binary search.
+
+>[:movie_camera: *Analysis of Binary Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f7abf7d-f71b-4a84-8590-acb7012a5dcd)
 
 
 ### Growth Rate and Asymptotic Analysis
@@ -102,12 +110,16 @@ work increases as a function of the problem size. This video discusses the
 idea of growth rate and introduces big-O notation as a standard way of
 describing time complexity and growth rates.
 
+>[:movie_camera: *Asymptotic Analysis*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86cc491d-ad94-409a-91b4-acb7012a65b3)
+
 
 ### Calculating Big-O
 
 This video introduces a common technique for quickly describing the time
 complexity of source code in terms of big-O. This technique abstracts and
 simplifies the mathematical/counting approach we used earlier.
+
+>[:movie_camera: *Big-O Analysis*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=249fb2e6-34fa-4fea-be3f-acb7012a69ec)
 
 
 
