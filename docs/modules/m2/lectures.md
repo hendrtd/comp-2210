@@ -229,11 +229,15 @@ Divide and conquer is a problem-solving strategy that can lead to efficient
 and elegant solutions to certain problems. This video introduces the divide
 and conquer strategy and illustrates its use to solve a familiar problem.
 
+>[:movie_camera: *Divide-and-Conquer*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9db3cfbc-2659-40d0-abb1-acb7012a9dc8)
 
-### Merge sort
+
+### Merge Sort
 
 This video describes merge sort - a very efficient and widely-used sorting
 algorithm that is based on the divide and conquer strategy.
+
+>[:movie_camera: *Merge Sort*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6dc97f63-d2ab-4358-9909-acb7012ab413)
 
 
 ### Quicksort
@@ -242,6 +246,8 @@ This video describes quicksort, one of the most efficient and widely-used
 sorting algorithms. Like merge sort, quicksort is based on the divide and
 conquer strategy but applies it in a different way.
 
+>[:movie_camera: *Quicksort*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ecfcc1d-0831-48a1-badf-acb7012abf9c)
+
 
 ### Sorts in the JCF / Stability
 
@@ -249,8 +255,4 @@ This video examines the sorting algorithms that are implemented in methods
 available in the Java Collections Framework. The concept of sort stability is
 also introduced and its practical importance is illustrated with an example.
 
-
-
-
-
-
+>[:movie_camera: *Stability*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=934b588b-3631-4f26-af29-acb7012ac1d7)
