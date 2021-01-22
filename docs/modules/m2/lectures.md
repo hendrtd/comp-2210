@@ -188,17 +188,23 @@ Recursion can sometimes be difficult to understand, especially the first time
 you encounter it. This video introduces recursive computation in the context
 of a simple, easy to understand, real-life example.
 
+>[:movie_camera: *Recursion Introduction*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f73e4f30-c14b-424f-8f4d-acb7012ad60d)
+
 
 ### Factorial
 
 This video continues to develop a recursive approach to computation in the
 context of the factorial function from mathematics.
 
+>[:movie_camera: *Factorial*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d8b58cb-3782-4301-912f-acb7012ade0d)
+
 
 ### Tower of Hanoi
 
 Most often thought of as a brain teaser or puzzle, the Tower of Hanoi problem
 offers another example of a problem that is naturally solved recursively.
+
+>[:movie_camera: *Tower of Hanoi*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dc9a3ba-0cee-4915-b84e-acb7012aec8c)
 
 
 ### Array Search
@@ -207,6 +213,8 @@ This video revisits two familiar algorithm - linear search and binary search -
 but this time in the context of recursion. Seeing how to express these
 algorithms recursively should help solidify the idea of recursion and help you
 become more comfortable expressing solutions in this way.
+
+>[:movie_camera: *Recursive Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41bbf74c-9e92-438a-9ada-acb7012af17b)
 
 
 
