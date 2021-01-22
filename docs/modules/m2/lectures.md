@@ -125,7 +125,7 @@ simplifies the mathematical/counting approach we used earlier.
 
 ---
 
-# Sorting -- Part 1
+# Sorting: Part 1
 
 Sorting is a simple problem that plays a surprisingly important role in modern
 computing. We will discuss and analyze four sorting algorithms, and along the
@@ -204,7 +204,7 @@ become more comfortable expressing solutions in this way.
 
 ---
 
-# Sorting - Part 2
+# Sorting: Part 2
 
 
 ### Divide-and-Conquer
