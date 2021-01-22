@@ -20,7 +20,7 @@ have wanted to find ways of making things faster. The same is true in
 software, but as we will see in this video, we have to exercise caution and
 know when efficiency actually matters and how best to achieve it.
 
->[:movie_camera: &nbsp *Introduction to Efficiency*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9)
+>[:movie_camera:   *Introduction to Efficiency*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9)
 
 ### Linear Search: Avoiding Wasted Time and Effort
 
@@ -29,7 +29,7 @@ two different linear search methods. The difference between the two methods is
 one of efficiency, but perhaps not the type of efficiency difference that
 truly matters.
 
->[:tv: &nsbp *Linear Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba82aff4-5a46-4029-abd9-acb7012a3292)
+>[:tv:  *Linear Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba82aff4-5a46-4029-abd9-acb7012a3292)
 
 ### Binary Search: Improving the Worst Case
 
@@ -38,7 +38,7 @@ fundamentally different approach to solving a problem. This video illustrates
 this principle by developing binary search as a more efficient alternative to
 linear search.
 
->[:film_projector: &nbsp *Binary Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8edd6fa6-42c9-4f49-aad8-acb7012a3267)
+>[:film_projector:   *Binary Search*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8edd6fa6-42c9-4f49-aad8-acb7012a3267)
 
 
 ### Time Complexity: Characterizing Efficiency
@@ -47,7 +47,7 @@ Now that we have a good understanding of efficiency and have seen an approach
 to achieving it, this video will lay the groundwork for describing and
 characterizing the efficiency of the programs that we create.
 
->[:clapper: &nbsp *Time Complexity*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=155ba0de-328c-4da1-a08a-acb7012a32eb)
+>[:clapper:   *Time Complexity*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=155ba0de-328c-4da1-a08a-acb7012a32eb)
 
 
 
