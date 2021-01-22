@@ -20,7 +20,7 @@ have wanted to find ways of making things faster. The same is true in
 software, but as we will see in this video, we have to exercise caution and
 know when efficiency actually matters and how best to achieve it.
 
-[![Efficiency-Introduction](img/efficiency-introduction.png)](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9)
+[![Efficiency-Introduction](img/efficiency-intro.png)](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18da513b-e206-4135-8c12-acb7012a32b9)
 
 ### Linear Search: Avoiding Wasted Time and Effort
 
