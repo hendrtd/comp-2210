@@ -5,27 +5,27 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: October 31, 2020; Updated: January 15, 2021*
+*Published: October 31, 2020; Updated: January 22, 2021*
 
 ---
 
 # Instructional Mode
 
-Auburn University sent the following communication to all faculty on January 15, 2021:
+Auburn University sent the following communication to all faculty on January 22, 2021:
 
-> After consideration of current public health scenarios, Auburn will extend the current remote operations through Sunday, Jan. 31.
+> Auburn University will resume full on-site campus operations on Monday, Feb. 8. This one-week extension will allow for (1) the additional review of COVID-19 policy changes recently announced by the Biden administration and (2) supervisors to transition all remote employees back to campus in alignment with safety protocols. All optional remote instruction will conclude on Sunday, Feb. 7.
 
-In accordance with the extension of remote operations, this course will be taught remotely from January 11 through January 31, and will transition to the originally-published modality on February 1, 2021. More information is given below.
+This course will continue to be taught remotely from January 11 through February 7, and will transition to the originally-published Face-to-Face Required modality on February 8, 2021. More information is given below.
 
-## January 11 Through January 31
+## January 11 Through February 7
 
 The instructional mode for this course will be
 [*Online Synchronous*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
-During the first two weeks, course will be conducted online in its entirety,
-and you will not have to be on campus for any part of this course. There will
-be optional synchronous online course activities in which you are
-encouraged to participate remotely during the scheduled class time.
-The details of this are as follows.
+Through February 7, this course will be conducted online in its entirety, and
+you will not have to be on campus for any part of this course. There will be
+optional synchronous online course activities in which you are encouraged to
+participate remotely during the scheduled class time. The details of this are
+as follows.
 
 
 - *Lecture meetings*: Each Tuesday and Thursday I will hold a live Zoom session during the scheduled lecture time (8:00 AM CT - 9:15 AM CT). This live session is optional but encouraged. 
@@ -48,7 +48,7 @@ you should contact the AU Bookstore at `books@auburn.edu`.
 
 Times for all course events (assignment deadlines, exam times, etc.) will be set in US [Central Time](https://www.timeanddate.com/time/zones/ct). You are responsible for meeting deadlines in Central Time regardless of what your local time zone may be. You may find it helpful to follow the instructions linked [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to have Canvas show deadlines appropriately in your local time zone to avoid any confusion.
 
-## February 1 Through End-Of-Term
+## February 8 Through End-Of-Term
 
 The instructional mode for this course will be 
 [*Face-to-Face Required*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
