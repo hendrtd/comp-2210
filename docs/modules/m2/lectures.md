@@ -140,6 +140,8 @@ This video will present a context for sorting that directly relates to our
 discussion of efficiency and scalability, and will then set the stage for
 close examination of different sorting algorithms.
 
+>[:movie_camera: *Sorting Introduction*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d942969-ae67-432e-aded-acb7012a742b)
+
 
 ### Selection Sort
 
@@ -147,6 +149,8 @@ This video presents and analyzes one of the most intuitive and easy to
 understand sorting algorithms: selection sort. We will appreciate selection
 sort for its simplicity, but we will quickly come to understand why it isn’t
 usable in practical applications.
+
+>[:movie_camera: *Selection Sort*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8967f4c3-0a4b-4a21-8dfe-acb7012a7af8)
 
 
 ### Insertion Sort
@@ -156,12 +160,16 @@ Like selection sort, it is not scalable enough to use widely in practice, but
 it has an interesting special case that makes it very efficient in certain
 situations.
 
+>[:movie_camera: *Insertion Sort*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f68bbb2-37aa-4e8c-afe3-acb7012a869a)
+
 
 ### Sorting More Efficiently
 
 Selection sort and insertion sort are simple but not scalable. This video asks
 us to consider how we might sort more efficiently. One answer to this question
 will lead us to discover a new approach to solving problems.
+
+>[:movie_camera: *Sorting More Efficiently*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90e33bd5-dff0-4e02-a1dc-acb7012a905f)
 
 
 
