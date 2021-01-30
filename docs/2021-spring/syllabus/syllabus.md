@@ -5,15 +5,15 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: October 31, 2020; Updated: January 22, 2021*
+*Published: October 31, 2020; Updated: January 29, 2021*
 
 ---
 
 # Instructional Mode
 
-Auburn University sent the following communication to all faculty on January 22, 2021:
+Auburn University sent the following communication to all faculty on January 29, 2021:
 
-> Auburn University will resume full on-site campus operations on Monday, Feb. 8. This one-week extension will allow for (1) the additional review of COVID-19 policy changes recently announced by the Biden administration and (2) supervisors to transition all remote employees back to campus in alignment with safety protocols. All optional remote instruction will conclude on Sunday, Feb. 7.
+> Optional remote instruction ends Sunday, Feb. 7.
 
 This course will continue to be taught remotely from January 11 through February 7, and will transition to the originally-published Face-to-Face Required modality on February 8, 2021. More information is given below.
 
@@ -64,6 +64,36 @@ activities and required to attend some. The details of this are as follows.
 
 - *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
 
+### In-Person Lecture Attendance and Room Occupancy Policy
+
+Safe practices recommended by 
+[AU](http://auburn.edu/covid-resource-center/policies/safe-practices/) 
+and the 
+[CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) 
+will be observed during all in-person class meetings. In particular:
+
+- **Students are required to wear masks.** Each student will be required to wear a mask at all times during in-person class meetings. Students not wearing a mask will be asked to put one on. Any student not complying with the request to wear a mask will be asked to leave the classroom and the instructor will notify Student Affairs. If a student does not wear a mask and does not leave the classroom, the instructor will cancel the class immediately.
+
+- **The instructor will wear a mask.** In light of CDC information on 
+[airborne transmission of SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html) 
+the instructor will wear a mask during lecture to mitigate the risk to students attending class.
+
+- **A Healthcheck green pass screen is required.** All students must show their [Healthcheck](https://ahealthieru.auburn.edu/) green pass screen for the given day of attendance. The instructor will show his green pass screen for each lecture day.
+
+- **Room occupancy limits with six-foot distancing will be observed.** In accordance with the 
+[AU Facilities Classroom Capacity Analysis](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/index.html), 
+the 
+[maximum seating occupancy for Shelby 1103](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/ShelbyCenterForEngineeringTechnology/Shelby%20Center%20for%20Engineering%20Technology%201103.pdf) 
+is 35. To maintain this limit and fairly distribute attendance opportunities, the following student attendance rotation based on last name will be followed. The **LN** column refers to the alphabetic letter than begins your last name.
+
+    LN | Dates to Attend Lecture
+    -- | -----------------------
+    A - F | 2/9, 2/23, 3/4, 3/16, 3/25, 4/8  
+    G - L | 2/11, 2/25, 3/9, 3/18, 3/30, 4/13  
+    M - Z | 2/18, 3/2, 3/11, 3/23, 4/6, 4/15  
+
+
+- **No in-person extra-class meetings in the classroom.** Students will not be allowed to come to the instructor's podium before, during, or after class for questions. Students are free to ask questions from their seats. For more personal, one-on-one questions, students will need to utilize office hours via Zoom.
 
 
 # Course Description
@@ -187,13 +217,13 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Lab Section | Office Hours | Zoom ID 
---- | ----- | ----------- | ------------ | -------
-Jordan Allred | `jra0027@auburn.edu` | TBA | TBA | TBA  
-Li Sun | `lzs0070@auburn.edu` | TBA | TBA | TBA  
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | TBA | TBA | TBA  
-Abhishek Kulkarni | `aak0010@auburn.edu` | TBA | TBA | TBA  
-Ujan Mukhopadyhay | `uzm0002@auburn.edu` | TBA | TBA | TBA  
+GTA | Email | Office Hours | Zoom ID 
+--- | ----- | ------------ | -------
+Jordan Allred | `jra0027@auburn.edu` | F 9:00 AM - 10:50 AM | 87149767177  
+Li Sun | `lzs0070@auburn.edu` | W 1:00 PM - 2:00 PM | 4127841107  
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | M 10:00 AM - 11:00 AM | 3344980832  
+Abhishek Kulkarni | `aak0010@auburn.edu` | M 12:00 PM - 1:00 PM | 2235097711  
+Ujan Mukhopadyhay | `uzm0002@auburn.edu` | TR 12:30 PM - 1:30 PM, W 11:00 AM - 12:00 PM | 2435697375  
 
 
 All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
