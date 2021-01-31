@@ -94,7 +94,7 @@ as lambda expressions and
 
 1. Run `IteratorExample.java` and observe its output.
 
-1. Use the provided jGRASP Canvas file ([`IteratorExample.jgrasp_canvas.xml`](src/IteratorExample.jgrasp_canvas.xml)) to watch the execution of this code.
+1. Use the provided jGRASP Canvas file ([`IteratorExample.jgrasp_canvas.xml`](src/IteratorExample.jgrasp_canvas.xml)) to watch the execution of this code. Once you save the jGRASP Canvas XML file to the same directory as the source code, you can use the jGRASP Canvas like so:
    - Click on the Canvas file in the jGRASP Browse tab or click on the *Run in Canvas* button ![](img/run_canvas.png) in the jGRASP tool bar.
    - Once the Canvas window opens, resize it so that it best fits your display.
    - You can use any of the following controls to watch the program execute.
