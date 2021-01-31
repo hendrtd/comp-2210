@@ -70,7 +70,14 @@ interface here:
 
 1. Use `ClassRoll.java` to informally test your implementation of the natural order of the `Student` class. Note that you do not have to address the shuffling or `Comparator` aspect of the `ClassRoll` class yet. Just run the file as-is.
 
-1. Use the provided jGRASP Canvas file ([`ClassRoll.jgrasp_canvas.xml`](src/ClassRoll.jgrasp_canvas.xml)) to watch the sort by natural order happen as you single-step in debug mode.
+1. Use the provided jGRASP Canvas file ([`ClassRoll.jgrasp_canvas.xml`](src/ClassRoll.jgrasp_canvas.xml)) to watch the sort by natural order happen as you single-step in debug mode. Once you save the jGRASP Canvas XML file to the same directory as the source code, you can use the jGRASP Canvas like so:
+   - Click on the Canvas file in the jGRASP Browse tab or click on the *Run in Canvas* button ![](img/run_canvas.png) in the jGRASP tool bar.
+   - Once the Canvas window opens, resize it so that it best fits your display.
+   - You can use any of the following controls to watch the program execute.
+      - *Play* ![](img/play.png) - Starts the program running in auto-step mode.
+      - *Step Over* ![](img/step_over.png) - Manually steps over each statement.
+      - *Step In* ![](img/step_in.png) - Manually steps into each statement (method call).
+
 
 
 ### Comparator
