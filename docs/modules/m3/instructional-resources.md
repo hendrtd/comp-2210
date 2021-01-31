@@ -1,9 +1,9 @@
 # Lecture Notes
 
-- Collections
-- ArrayBag
-- LinkedStructures
-- LinkedBag
+- [Collections](notes/08-Collections.pdf)
+- [`ArrayBag`](notes/09-ArrayBag.pdf)
+- [Linked Structures](notes/10-Linked_Structures.pdf)
+- [`LinkedBag`](notes/11-LinkedBag.pdf)
 
 # Supplemental Readings
 
