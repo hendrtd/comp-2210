@@ -1,9 +1,6 @@
 /**
  * Models a musical song.
  *
- * @author Dean Hendrix (dh@auburn.edu)
- * @version 2018-02-02
- *
  */
 public class Song implements Comparable<Song> {
 
