@@ -3,7 +3,7 @@
 
 This activity is designed to illustrate the design and utility of elements of
 the Java Collections Framework (JCF). You should study the 
-[instructional resources](../instructional-resources.md) 
+[instructional resources](../../instructional-resources.md) 
 on Collections before attempting this activity.
 
 You will need the following source code files to complete this activity.
