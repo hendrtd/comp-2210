@@ -110,4 +110,4 @@ on nodes.
 
 ### Summary and variations
 
->[*Video:*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=573376dd-81cc-4343-a331-acb801796b91)
+>[*Video: Summary and variations on linked lists*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=573376dd-81cc-4343-a331-acb801796b91)
