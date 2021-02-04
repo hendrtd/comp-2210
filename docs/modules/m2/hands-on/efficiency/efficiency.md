@@ -1,12 +1,17 @@
 
-# Hands-On: Efficiency
+# Hands-On: Efficiency and Empirical Analysis
 
-This activity focuses on empirically measuring a program's running time. By
-completing this activity you should
+This activity focuses on empirically measuring a program's running time.
+Before attempting this activity, you should complete the Efficiency note set
+and the *Empirical Analysis* section of the Algorithm Analysis note set, as
+well as the associated videos available in the 
+[instructional resources](../../instructional-resources.md) 
 
-- Gain an ability to measure the running time of programs
-- Gain an understanding of factors that affect running time
-- Gain an ability to characterize a program's time complexity
+After completing this activity you should
+
+- Be able to measure the running time of programs.
+- Be able to describe factors that affect running time.
+- Be able to to characterize a program's time complexity.
 
 You will need the following source code files to complete this activity.
 
