@@ -24,6 +24,10 @@ You will need the following source code files to complete this activity.
 
 1. Implement the `shiftRight` method in the `ArrayIndexedList` class. Use the debugger and jGRASP viewers to help you make sure you implement this method correctly. Do not modify any other method.
 
-1. Submit `ArrayIndexedList.java` to the associated Hands-On in Vocareum to document your progress.
+
+## Submission
+
+The submission page for this activity asks you to complete the
+`ArrayIndexedList.shiftRight` method above and then submit it for a grade.
 
 
