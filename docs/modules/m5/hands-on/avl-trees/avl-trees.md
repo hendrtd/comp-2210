@@ -44,4 +44,4 @@ You will need the following source code files to complete this activity.
 ## Submission
 
 The submission page for this activity asks you to apply your understanding of
-stacks and queues to a problem and then submit it for a grade.
+AVL trees to a problem and then submit it for a grade.
