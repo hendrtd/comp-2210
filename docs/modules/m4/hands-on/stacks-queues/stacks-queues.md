@@ -14,4 +14,4 @@ This activity focuses on the fundamental mechanics of working with stacks and qu
 ## Submission
 
 The submission page for this activity asks you to apply your understanding of
-dynamic array resizing to a problem and then submit it for a grade.
+stacks and queues to a problem and then submit it for a grade.
