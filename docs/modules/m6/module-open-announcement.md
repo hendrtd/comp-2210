@@ -20,4 +20,4 @@ Here are a few things to keep in mind as you begin this module.
 
 Good luck, have fun, and War Eagle!
 
-![`dh`](~/img/dh.jpg)
+![`dh`](../../img/dh.jpg)
