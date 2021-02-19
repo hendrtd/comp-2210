@@ -20,4 +20,4 @@ Here are a few things to keep in mind as you begin this module.
 
 Good luck, have fun, and War Eagle!
 
-<img src="../../img/dh.jpg" width="50">
+<img src="../../img/dh.jpg" width="100">
