@@ -20,4 +20,4 @@ Here are a few things to keep in mind as you begin this module.
 
 Good luck, have fun, and War Eagle!
 
-<img src="https://www.gravatar.com/avatar/2b04d1598ac490199eece0d569ee3454" />
+![`dh`](~/img/dh.jpg)
