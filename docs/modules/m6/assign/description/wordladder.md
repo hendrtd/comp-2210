@@ -60,9 +60,13 @@ You can download the necessary starter code and resources here:
 The `ExampleClient` class illustrates basic calls to the `WordLadderGame`
 methods, and it also demonstrates how to associate a text file contained in
 WordList.jar with an `InputStream` object. Text files containing different
-word lists of various sizes are provided in the Java JAR file WordLists.jar.
-JAR files can be opened by most common file compression and archiving
-utilities, as well as jGRASP via the Project menu. You can also extract the
+word lists of various sizes are provided in the 
+[Java JAR file](https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html) 
+WordLists.jar. JAR files can be opened by 
+[most common file compression and archiving utilities]()https://en.wikipedia.org/wiki/Comparison_of_file_archivers, 
+as well as 
+[jGRASP via the Project menu](https://jgrasp.org/jgrasp_help.html#ctrl_proj). 
+You can also extract the
 contents of a JAR file on the command line by issuing the following command:
 
 ```bash
