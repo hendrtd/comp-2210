@@ -2,7 +2,7 @@
 # Hash Tables and Graphs
 
 In this module we discuss a very efficient search structure - **hash
-tables(()) - and a very general modeling structure - **graphs**. Hash tables
+tables** - and a very general modeling structure - **graphs**. Hash tables
 provide *O(1)* complexity on average for add, remove, and search, making them
 the most scalable search structure we've seen so far. The trade-off for that
 scalability is giving up the ability to efficiently access the elements in
