@@ -1,9 +1,9 @@
 # Lecture Notes
 
-- [Hash Tables](notes/)
-- [Graphs](notes/)
-- [Minimum Spanning Trees](notes/)
-- [Least Cost Paths](notes/)
+- [Hash Tables](notes/22-Hash-Tables.pdf)
+- [Graphs](notes/23-Graphs.pdf)
+- [Minimum Spanning Trees](notes/24-MST-Algorithms.pdf)
+- [Least Cost Paths](notes/25-LCP-Algorithms.pdf)
 
 # Supplemental Readings
 
