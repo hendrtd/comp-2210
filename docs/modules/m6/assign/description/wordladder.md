@@ -13,8 +13,8 @@ memory of O.A.L., this assignment is all about *making connections*.
 
 ## Problem Overview
 
-The focus of the assignment is to implement a word connection game that has been played in one variation or another for over 130 years.  The object of the game is to transform a *start word* into an *end word* of the same length by a sequence of steps, each of which consists of a one-letter change to the current word that results in another legal word. Charles Lutwidge Dodsgon ([Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll)) invented this game and called it "Doublets."" It's now more commonly known as 
-[**Word Ladders**](https://en.wikipedia.org/wiki/Word_ladder)
+The focus of the assignment is to implement a word connection game that has been played in one variation or another for almost 150 years.  The object of the game is to transform a *start word* into an *end word* of the same length by a sequence of steps, each of which consists of a one-letter change to the current word that results in another legal word. Charles Lutwidge Dodsgon ([Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll)) invented this game and called it "Doublets." It's now more commonly known as 
+[**Word Ladders**](https://en.wikipedia.org/wiki/Word_ladder).
 
 Consider the following examples.
 
