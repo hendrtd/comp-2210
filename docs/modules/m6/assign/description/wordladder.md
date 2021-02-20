@@ -33,3 +33,44 @@ clash, class, claws, clows, clown
 cat, cot, dot, dog
 cat, hat
 ```
+
+## Implementation Details
+
+You must implement your solution to the assignment in terms of
+`WordLadderGame`, an interface that specifies all the behavior needed to
+calculate word ladders, and `Doublets`, the shell of a class that implements
+the `WordLadderGame` interface. You must provide a correct implementation of
+the `Doublets` class by completing its constructor and providing a correct
+implementation of each  method. You must not change the `WordLadderGame`
+interface in any way. You must meet all the requirements specified and implied
+by the Javadoc comments in these files. You may add as many methods as you
+would like, and you may add as many nested classes as you would like. Although
+you may import other classes that are part of the JDK, the imports already
+provided are the suggested ones that you will need.
+
+## Downloads
+
+You can download the necessary starter code and resources here:
+
+- [WordLadderGame.java](src/WordLadderGame.java)
+- [Doublets.java](src/Doublets.java)
+- [ExampleClient.java](src/ExampleClient.java)
+- [WordLists.jar](src/WordLists.jar)
+
+The `ExampleClient` class illustrates basic calls to the `WordLadderGame`
+methods, and it also demonstrates how to associate a text file contained in
+WordList.jar with an `InputStream` object. Text files containing different
+word lists of various sizes are provided in the Java JAR file WordLists.jar.
+JAR files can be opened by most common file compression and archiving
+utilities, as well as jGRASP via the Project menu. You can also extract the
+contents of a JAR file on the command line by issuing the following command:
+
+```bash
+jar xf WordLists.jar
+```
+
+## Acknowledgements
+
+Word search games of various sorts are popular CS 2 assignments because they
+bring together several important topics all in one place. This version of the
+word search problem owes thanks to Owen Astrachan and others.
