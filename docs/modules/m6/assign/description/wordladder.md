@@ -19,9 +19,9 @@ The focus of the assignment is to implement a word connection game that has been
 Consider the following examples.
 
 ```
-clash, flash, flask, flack, flock, clock, crock, crook, croon, crown, clown
 cat, can, con, cog, dog
 cat, bat, eat, fat, gat, hat
+clash, flash, flask, flack, flock, clock, crock, crook, croon, crown, clown
 ```
 
 Each is a valid word ladder from the start word to the end word since the start and end words are the same length and each word in between is exactly one letter different from the previous word.
@@ -29,9 +29,9 @@ Each is a valid word ladder from the start word to the end word since the start 
 The game is usually played so that each player tries to find the *shortest* word ladder between two words. The shortest ladder would, of course, depend on the *lexicon*, or list of words, being used for the game. Using the SOWPODS word list (see below), word ladders with minimum length for the start-end pairs above would be:
 
 ```
-clash, class, claws, clows, clown
 cat, cot, dot, dog
 cat, hat
+clash, class, claws, clows, clown
 ```
 
 ## Implementation Details
