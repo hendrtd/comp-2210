@@ -212,7 +212,7 @@ Auburn, AL 36849
 +1 334 844 6305  
 `dh@auburn.edu`  
 <http://eng.auburn.edu/csse>  
-**Office Hours:** MW 10-11 AM <https://auburn.zoom.us/my/deanhendrix>  
+**Office Hours:** MW 10-11 AM, online only at <https://aub.ie/dean-hendrix-zoom>  
 
 
 ## Teaching Assistants
