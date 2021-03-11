@@ -207,7 +207,7 @@ the set of all subsets of S. There are 2^N members of P(S) where N is the
 number of elements in S. For example, if S = {A,B,C}, then P(S) = {∅, {A},
 {B}, {C}, {A,B}, {B,C}, {A,C}, {A,B,C}}. (Note that the empty set ∅ is a
 member of every set.) The `powersetIterator` method returns an `Iterator` over
-the elements in the power set of this set. The iterator makes to guarantees
+the elements in the power set of this set. The iterator makes no guarantees
 regarding the order in which the elements of P(S) will be returned. The
 associated time complexities are as follows: `powerSetIterator()`: *O(N)*;
 `hasNext()`: *O(1)*; `next()`: *O(N)*; required space: *O(N)*, where *N* is
