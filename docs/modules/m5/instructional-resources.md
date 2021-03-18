@@ -1,8 +1,8 @@
 # Lecture Notes
 
 - [Trees](notes/15-Trees.pdf)
-- [Binary Trees](notes/)
-- [Binary Search Trees](notes/16-Binary-Trees.pdf)
+- [Binary Trees](notes/16-Binary-Trees.pdf)
+- [Binary Search Trees](notes/17-Binary-Search-Trees.pdf)
 - [AVL Trees](notes/18-AVL-Trees.pdf)
 - [Red-Black Trees](notes/19-Red-Black-Trees.pdf)
 - [Multiway Search Trees](notes/20-Multiway-Search-Trees.pdf)
