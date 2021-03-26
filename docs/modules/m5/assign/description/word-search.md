@@ -197,15 +197,17 @@ of strings containing all scorable words on the board that are of a specified mi
 length and can be constructed according to the game rules. If no words can be
 found, this method returns an empty `SortedSet`. 
 
-The `isOnBoard` method takes a string parameter and returns true if that
-string is on the board and false otherwise. If the string is on the board,
-this method returns a
+The `isOnBoard` method takes a string parameter and determines whether or not
+that string is **on the board** as defined above. If the string is on the
+board, this method returns a
 [`List`](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/List.html)
 of
 [`Integers`](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/Integer.html)
 representing the row-major positions of each *substring*. (Remember: the board
 positions are filled with strings, not necessarily just single characters).
-For example, `isOnBoard("PEACE")` would return the list `[7, 6, 3, 2, 1]`. 
+For example, `isOnBoard("PEACE")` would return the list `[7, 6, 3, 2, 1]`. If
+the string is not on the board, this method returns an empty list. For
+example, `isOnBoard("PALE")` would return an empty list.
 
 ![Example board for isOnBoard("PEACE");](img/isOnBoard.png)
 
