@@ -22,7 +22,7 @@ This activity focuses on the fundamental mechanics of working with disjoint sets
 1. Go through each operation in the slides and make sure you understand how each works.
 
 
-#$ Submission
+## Submission
 
 The submission page for this activity asks you to apply your understanding of
 disjoint sets to a problem and then submit it for a grade.
