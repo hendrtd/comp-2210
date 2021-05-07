@@ -35,3 +35,5 @@ As you begin Module 1, here are a few things to keep in mind.
   out if you need any help or have any questions.
 
 Good luck, and have fun in the module!
+
+<img src="../../img/dh.jpg" width="100">
