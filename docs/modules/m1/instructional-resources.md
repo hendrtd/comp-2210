@@ -1,7 +1,7 @@
 # Lecture Notes
 
 - [Problem Solving, Patterns, and
-  Search](notes/01-Problem-Solving-Patterns-Sesarch.pdf)
+  Search](notes/01-Problem-Solving-Patterns-Search.pdf)
 - [Correctness and Testing](notes/02-Correctness-and-Testing.pdf)
 - [Generality](notes/03-Generality.pdf)
 
