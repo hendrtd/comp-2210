@@ -19,16 +19,14 @@ the most important activities that occur in a software development project, and
 the testing skills introduced in this set of videos are vital to becoming a
 software developer.
 
-> []()
-
 
 ### Correctness and Clean Code
 
 This video introduces the concept of correctness in code and emphasizes the
 importance of using simple, clean code.
 
-> []()
 
+> [*Video: Correctness and Clean Code*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d444065-8d63-4244-abda-acbc0052c724)
 
 ### Perspectives on Testing
 
@@ -36,7 +34,7 @@ Testing is at the heart of what we do as computer programmers. In this video,
 you will learn about various perspectives on testing and why it is important.
 
 
-> []()
+> [*Video: Perspectives on Testing*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b72303b-29e6-4864-8e41-acbc0052c74c)
 
 
 ### Test Case Design
@@ -46,8 +44,7 @@ this video, you will learn the basics of purposeful test case design and how it
 can help you to address issues in your code.
 
 
-> []()
-
+> [*Video: Test Case Design*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd4afebc-add1-457f-a230-acbc0052c7a9)
 
 ---
 
