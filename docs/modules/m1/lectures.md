@@ -29,11 +29,10 @@ and discusses approaches to promoting correctness in the code that we write.
 > [*Video: Correctness Overview*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d444065-8d63-4244-abda-acbc0052c724)
 
 
-### Perspectives on Testing and the Influence of Aesthetics
+### Correctness and the Influence of Aesthetics
 
-Testing is at the heart of what we do as computer programmers. In this video,
-you will learn about various perspectives on testing, why they are important, 
-and the importance of clean, simple code.
+This video discusses coding style, code structure, and the idea of clean, simple
+code and the influence these ideas have on correctness.
 
 
 > [*Video: Perspectives and Aesthetics*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b72303b-29e6-4864-8e41-acbc0052c74c)
@@ -41,9 +40,9 @@ and the importance of clean, simple code.
 
 ### Test Case Design
 
-In programming, a test is only as useful as the test cases that you design. In
-this video, you will learn the basics of purposeful test case design and how it
-can help you to address issues in your code.
+Testing is only as useful as the test cases that you design. In this video you
+will learn about different perspectives on testing, as well as the basics of
+purposeful test case design.
 
 
 > [*Video: Test Case Design*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd4afebc-add1-457f-a230-acbc0052c7a9)
