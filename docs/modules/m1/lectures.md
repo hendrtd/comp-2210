@@ -20,21 +20,23 @@ the testing skills introduced in this set of videos are vital to becoming a
 software developer.
 
 
-### Correctness and Clean Code
+### Correctness Overview 
 
-This video introduces the concept of correctness in code and emphasizes the
-importance of using simple, clean code.
+This video introduces the concept of correctness in the context of computer programs
+and discusses approaches to promoting correctness in the code that we write.
 
 
-> [*Video: Correctness and Clean Code*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d444065-8d63-4244-abda-acbc0052c724)
+> [*Video: Correctness Overview*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d444065-8d63-4244-abda-acbc0052c724)
 
-### Perspectives on Testing
+
+### Perspectives on Testing and the Influence of Aesthetics
 
 Testing is at the heart of what we do as computer programmers. In this video,
-you will learn about various perspectives on testing and why it is important.
+you will learn about various perspectives on testing, why they are important, 
+and the importance of clean, simple code.
 
 
-> [*Video: Perspectives on Testing*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b72303b-29e6-4864-8e41-acbc0052c74c)
+> [*Video: Perspectives and Aesthetics*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b72303b-29e6-4864-8e41-acbc0052c74c)
 
 
 ### Test Case Design
