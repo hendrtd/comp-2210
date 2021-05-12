@@ -21,6 +21,7 @@ There is quite of bit of material here, so you can jump to a particular section 
 	- [jGRASP](#jgrasp)
 	- [IntelliJ](#intellij)
 	- [Eclipse](#eclipse)
+    - [Visual Studio Code](#visual-studio-code)
 	- [Online IDE](#online-ide-provided-by-vocareum)
 - [Editor + Command Line](#editor--command-line)
 	- [Text Editors](#text-editors)
