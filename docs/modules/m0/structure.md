@@ -22,51 +22,78 @@ boundaries. Specifically:
 - Each lab test is given immediately after the last day of the module that contains it.
 
 This overall course structure is the same regardless of course delivery mode
-(in-person or online) or term (15-week fall/spring, 10-week summer, or 7.5
-week half-term). Module 0 begins on the first day of classes for the term and
-ends on the first Sunday of the term. Each module 1-7 begins on a Monday and
-ends on a Sunday. The duration of each module 1-7 is the same but varies by
-term (14 days for fall/spring, 10 days for summer, and 7 days for half-term).
+(in-person or online) or term (15-week fall/spring, 10-week summer, or 7.5 week
+half-term). For 15-week and 7.5-week terms, Module 0 begins on the first day of
+classes for the term and ends on the first Sunday of the term. Each module 1-7
+begins on a Monday and ends on a Sunday. The duration of each module 1-7 is the
+same but varies by term (14 days for fall/spring and 7 days for half-term).
+Summer terms follow the same pattern, but set module 1-7 to be 10 days in
+duration, with Module 0 beginning on the first day of class and ending on the
+day prior to Module 1 beginning.
 
-Here is the specific schedule for [Spring 2021](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the specific schedule for [Summer 2021](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon 11 Jan | Sun 17 Jan
-M1 | Mon 18 Jan | Sun 31 Jan
-M2 | Mon 1 Feb | Sun 14 Feb
-M3 | Mon 15 Feb | Sun 28 Feb
-M4 | Mon 1 Mar | Sun 14 Mar
-M5 | Mon 15 Mar | Sun 28 Mar
-M6 | Mon 29 Mar | Sun 11 Apr
-M7 | Mon 12 Apr | Thu 22 Apr
+M0 | Wed 19 May | Fri 21 May  
+M1 | Sat 22 May | Mon 31 May  
+M2 | Tue 1 Jun | Thu 10 Jun  
+M3 | Fri 11 Jun | Sat 20 Jun  
+M4 | Sun 21 Jun | Wed 30 Jun  
+M5 | Thu 1 Jul | Sat 10 Jul  
+M6 | Sun 11 Jul | Tue 20 Jul  
+M7 | Wed 21 Jul | Fri 30 Jul  
 
 Module 7 has less content to account for final exam preparation and other end
-of term issues. (Note: The Spring 2021 calendar was modified due to the
-COVID-19 response, and the dates above reflect this modified calendar.)
+of term issues. 
 
 # Module Structure
 
 Each of the seven content modules has the same structure with the following components.
 
 - **Module Overview:** A brief introduction to the module content.
-- **Module At-A-Glance:** A more complete description of the module focus, tips for success, and learning objectives.
-- **Instructional Resources:** Links to complete lecture notes for the module and references to associated readings from textbooks.
-- **Lectures:** Links to complete instructional videos tied to the lecture notes.
-- **Hands-On Activities:** One or more activities designed to help you put into practice some of the topics being presented in the notes.
-- **Programming Assignment:** An assignment that requires you to implement a software solution to a given problem. The assignment relates to the content of the current and/or previous modules.
+- **Module At-A-Glance:** A more complete description of the module focus, tips
+  for success, and learning objectives.
+- **Instructional Resources:** Links to complete lecture notes for the module
+  and references to associated readings from textbooks.
+- **Lectures:** Links to complete instructional videos tied to the lecture
+  notes.
+- **Hands-On Activities:** One or more activities designed to help you put into
+  practice some of the topics being presented in the notes.
+- **Programming Assignment:** An assignment that requires you to implement a
+  software solution to a given problem. The assignment relates to the content of
+  the current and/or previous modules.
 - **Summary:** A brief recap of what was covered in the module.
 
 In addition to these common elements, Module 2, 4, and 7 have:
 
-- **Lab Test:** A timed programming test that requires you to implement software solutions for small, focused problems. While a programming assignment measures your ability to solve a larger problem over a two-week period, the lab tests are designed to measure your ability to solve small problems quickly. Doing this requires that you have internalized and mastered basic problem solving skills, basic programming skills, and appropriate language knowledge. A lab test is very much a test of your *fluency*.
-- **Exam:** A timed Canvas quiz that tests your overall mastery of the content in the current module and one or more previous modules.
+- **Lab Test:** A timed programming test that requires you to implement software
+  solutions for small, focused problems. While a programming assignment measures
+  your ability to solve a larger problem over a two-week period, a lab test is
+  designed to measure your ability to solve small problems quickly. Doing this
+  requires that you have internalized and mastered basic problem solving skills,
+  basic programming skills, and appropriate language knowledge. A lab test is
+  very much a test of your *fluency*.
+- **Exam:** A timed Canvas quiz that tests your overall mastery of the content
+  in the current module and one or more previous modules.
 
 
 # Workflow
 
-Since each content module has the same structure, you can apply the same process to going through each. Here is a suggested [workflow](https://en.wikipedia.org/wiki/Workflow) for going through each module of this course.
+Since each content module has the same structure, you can apply the same process
+to going through each. Here is a suggested
+[workflow](https://en.wikipedia.org/wiki/Workflow) for going through each module
+of this course.
 
 ![worflow](img/workflow.png)
 
-Notice the iterative nature of the items in the *Work & Learn* [swimlane](https://en.wikipedia.org/wiki/Swim_lane). Rather than going through this portion of the module sequentially, I strongly encourage you to take an [iterative](https://en.wikipedia.org/wiki/Iteration) approach. Read a portion of the notes, then watch the associated lecture videos, and then do the associated hands-on activities (if any). I also suggest that you start the assignment near the beginning of the module and interleave your work on the assignment with the notes/lecture/hands-on cycle. Since most assignments are based on material covered in previous modules, this interleaving is easy to do.
+Notice the iterative nature of the items in the *Work & Learn*
+[swimlane](https://en.wikipedia.org/wiki/Swim_lane). Rather than going through
+this portion of the module sequentially, I strongly encourage you to take an
+[iterative](https://en.wikipedia.org/wiki/Iteration) approach. Read a portion of
+the notes, then watch the associated lecture videos, and then do the associated
+hands-on activities (if any). I also suggest that you start the assignment near
+the beginning of the module and interleave your work on the assignment with the
+notes/lecture/hands-on cycle. Since most assignments are based on material
+covered in previous modules, this interleaving is easy to do.
+
