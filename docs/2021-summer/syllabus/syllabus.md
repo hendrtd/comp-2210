@@ -147,8 +147,7 @@ be provided in Canvas at the beginning of the course.
 
 ### Dr. Shehenaz Shaik
 
-<img src="https://secure.gravatar.com/avatar/66675e9a1f7bbbb2083ca3f654d6a1ab"
-/>  
+<img src="https://secure.gravatar.com/avatar/66675e9a1f7bbbb2083ca3f654d6a1ab" />  
 
 Lecturer  
 Computer Science and Software Engineering  
@@ -159,8 +158,8 @@ Auburn, AL 36849
 +1 334 844 6693  
 `szs0117@auburn.edu`  
 [`http://eng.auburn.edu/directory/szs0117`](http://eng.auburn.edu/directory/szs0117)  
-Office Hours: TBA  
-Zoom ID: TBA  
+Office Hours: 9-10 AM TWThF   
+Zoom ID: https://auburn.zoom.us/j/3451884101  
 
 ## Course Coordinator
 
@@ -189,8 +188,8 @@ Ph.D. Student
 Computer Science and Software Engineering  
 Auburn University  
 `zzz0092@auburn.edu`   
-Office Hours: TBA  
-Zoom ID: TBA  
+Office Hours: 4-5 PM MTWF  
+Zoom ID: https://auburn.zoom.us/j/7864435081 
 
 
 ---
