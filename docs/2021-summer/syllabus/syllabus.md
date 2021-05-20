@@ -23,9 +23,9 @@ completing all other activities required by this course.
 You are expected to have all the equipment and software needed to be
 successful in this course. At a minimum, you must have a computer with a
 webcam and microphone, and a broadband Internet connection capable of
-installing and reliably running both
-[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
-and [Honorlock](https://honorlock.com/support/). You must also be able to
+installing and reliably running 
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux). 
+You must also be able to 
 install and reliably run the software specific to this course as described
 later in this syllabus. If you have needs regarding instructional technology,
 you should contact the AU Bookstore at `books@auburn.edu`.
@@ -107,16 +107,6 @@ Vocareum is a cloud-based lab environment in which you will submit programming
 assignments and complete programming tests. The fee for using Vocareum this semester will be charged to your eBill via Auburn's 
 [All Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx)
 program. Further instructions are provided in a Canvas announcement.
-
-
-## Honorlock
-
-This course uses the Honorlock proctoring system for exams and tests. All fees
-associated with using Honorlock are being paid by Auburn University this term,
-so there is no software to purchase or licensing fee for you to pay.
-
-You must have a computer and a broadband Internet connection capable of
-installing and reliably running [Honorlock](https://honorlock.com/support/).
 
 
 ## Zoom
@@ -201,13 +191,11 @@ in the following categories.
 
 - **Exams** (40%): There will be three exams in the course, including the final
   exam. Dates for the first two exams will be set and announced at least one
-  week in advance. All three exams will be administered online using the
-  Honorlock proctoring system. Missed exams are assigned a score of zero points.
+  week in advance. Missed exams are assigned a score of zero points.
 
 - **Lab Tests** (25%): There will be three programming-based tests in the
   course. Dates for each will be set and announced at least one week in advance.
-  All three tests will be administered online using the Honorlock proctoring
-  system. Lab Test grades will be based on the percentage of test cases passed
+  Lab Test grades will be based on the percentage of test cases passed
   on Vocareum. Passing zero test cases will result in a grade of zero points.
   Missed lab tests are assigned a score of zero points.
 
@@ -491,7 +479,7 @@ students or student groups.
 The Auburn University 
 [Policy on Classroom Behavior](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassroomBehavior.pdf)
 is strictly followed in this course. Note that this policy extends to all
-online elements of this course including Zoom, Honorlock, Vocareum, Piazza,
+online elements of this course including Zoom, Vocareum, Piazza,
 and all electronic communication.
 
 
