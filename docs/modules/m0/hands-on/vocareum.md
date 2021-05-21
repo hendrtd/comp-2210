@@ -1,4 +1,4 @@
-## Getting Started With Vocareum
+# Getting Started With Vocareum
 
 Vocareum provides online virtual labs to support various course scenarios,
 including the programming lab environment that we will be using in this
