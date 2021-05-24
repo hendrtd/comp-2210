@@ -19,8 +19,8 @@ the bodies of the indicated methods in the starter code provided in Vocareum.
   will be held responsible for observing the [Academic Honesty
   Code](http://www.auburn.edu/academic/provost/academic-honesty/_assets/pdf/academic-honesty-code-20201028.pdf).
 
-- You are allowed to reference the Java API at the following
-  link:[https://docs.oracle.com/en/java/javase/15/docs/api/index.html](https://docs.oracle.com/en/java/javase/15/docs/api/index.html).
+- You are allowed to reference the Java API at the following link:
+  [https://docs.oracle.com/en/java/javase/15/docs/api/index.html](https://docs.oracle.com/en/java/javase/15/docs/api/index.html).
   You are not allowed to reference any other material during the lab test.
 
 - You are strongly encouraged to take the lab test completely within the
