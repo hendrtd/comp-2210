@@ -14,12 +14,12 @@ encouraged to begin the assignment as soon as possible. Give yourself plenty
 of time to complete the assignment in stages rather than waiting until just
 before it is due.
 
-Each module in this course builds upon previous concepts and gets
-progressively more difficult. It is important to be proactive and to begin
-your work early in the module to allow the material to sink in. If you don't
-understand something or have a question, it is crucial that you reach out for
-help sooner rather than later. Ask questions on Piazza, engage with the class,
-and be proactive. These are good strategies for success.
+Each module in this course builds upon previous concepts and gets progressively
+more difficult. It is important to be proactive and to begin your work early in
+the module to allow the material to sink in. If you don't understand something
+or have a question, it is crucial that you reach out for help sooner rather than
+later. Ask questions, engage with the class, and be proactive. These are good
+strategies for success.
 
 
 # Module Objectives
