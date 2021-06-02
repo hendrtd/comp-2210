@@ -4,8 +4,9 @@ This exam consists of objective questions and is designed to test your mastery
 of the course content in the specified modules. There are 100 points possible on
 the exam.
 
-
 ## Rules
+
+Be sure to observe the following rules as you take the exam.
 
 - You must complete the exam within 75 minutes from when you begin and before
   the end of the availability period.
