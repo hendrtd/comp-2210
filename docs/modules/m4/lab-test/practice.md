@@ -1,4 +1,4 @@
-# PRACTICE Lab Test 1
+# PRACTICE Lab Test 2
 
 Lab tests are designed to test your programming **fluency** by having you
 develop the solution to small, highly focused problems in Java. This practice
