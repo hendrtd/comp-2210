@@ -8,6 +8,10 @@
 - [Multiway Search Trees](notes/20-Multiway-Search-Trees.pdf)
 - [Binary Heaps](notes/21-Binary-Heaps.pdf)
 
+# Source Code
+
+- [AVL Trees](src/)
+
 # Supplemental Readings
 
 - Chapters 12 and 13 of Bailey, D. A. (2007). [*Java structures: Data structures in Java for the principled programmer ("Root 7" Edition)*](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf). Williams, MA: Williams University.
