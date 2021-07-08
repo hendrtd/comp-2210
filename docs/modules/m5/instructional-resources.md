@@ -10,7 +10,7 @@
 
 # Source Code
 
-- [AVL Trees](src/)
+- [AVL Trees](src/avl/)
 
 # Supplemental Readings
 
