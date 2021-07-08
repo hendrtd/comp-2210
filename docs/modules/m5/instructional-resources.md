@@ -11,6 +11,7 @@
 # Source Code
 
 - [AVL Trees](src/avl/)
+- [Red-Black Trees](src/red-black/)
 
 # Supplemental Readings
 
