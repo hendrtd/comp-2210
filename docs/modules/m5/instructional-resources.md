@@ -10,8 +10,12 @@
 
 # Source Code
 
-- [AVL Trees](src/avl/)
-- [Red-Black Trees](src/red-black/)
+- **AVL Trees**
+    - [AvlTree.java](src/avl/AvlTree.java)
+    - [AvlTreeClient.java](src/avl/AvlTreeClient.java)
+- **Red-Black Trees**
+    - [RedBlackTree.java](src/red-black/RedBlackTree.java)
+    - [RedBlackTreeClient.java](src/red-black/RedBlackTreeClient.java)
 
 # Supplemental Readings
 
