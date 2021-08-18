@@ -16,12 +16,12 @@ instructional modality, course policies, grading and more.
 See you on Thursday, and War Eagle!
 
 
-> Dean Hendrix
-> Associate Professor and Associate Department Chair
-> Director, CSSE Undergraduate Programs
-> Department of Computer Science and Software Engineering
-> 3101D Shelby Center for Engineering Technology
-> Auburn University, Auburn, AL 36849
-> 334-844-6305, hendrtd@auburn.edu
+> Dean Hendrix  
+> Associate Professor and Associate Department Chair  
+> Director, CSSE Undergraduate Programs  
+> Department of Computer Science and Software Engineering  
+> 3101D Shelby Center for Engineering Technology  
+> Auburn University, Auburn, AL 36849  
+> 334-844-6305, hendrtd@auburn.edu  
 
 
