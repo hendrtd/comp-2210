@@ -5,11 +5,11 @@ This course is organized into eight modules numbered
 through seven. Module 0 is an introductory "getting started" module, while
 Module 1 through Module 7 are course-content modules. Rather than being
 organized strictly by content, these modules are
-[timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M7 are
-of fixed, equal durations with specific tasks to be completed within each. (If
-you're familiar with 
-[agile methods](https://en.wikipedia.org/wiki/Agile_software_development),
-you'll recognize similarities to
+[timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M7 are of
+fixed, equal durations with specific tasks to be completed within each. (If
+you're familiar with [agile
+methods](https://en.wikipedia.org/wiki/Agile_software_development), you'll
+recognize similarities to
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
 
 Scheduling, planning, and knowing when things are due are easy with timeboxed
@@ -18,8 +18,10 @@ boundaries. Specifically:
 
 - Each assignment is due on the last day of the module that contains it.
 - Each hands-on activity is due on the last day of the module that contains it.
-- Each exam is given immediately after the last day of the module that contains it.
-- Each lab test is given immediately after the last day of the module that contains it.
+- Each exam is given immediately after the last day of the module that contains
+  it.
+- Each lab test is given immediately after the last day of the module that
+  contains it.
 
 This overall course structure is the same regardless of course delivery mode
 (in-person or online) or term (15-week fall/spring, 10-week summer, or 7.5 week
@@ -31,25 +33,27 @@ Summer terms follow the same pattern, but set module 1-7 to be 10 days in
 duration, with Module 0 beginning on the first day of class and ending on the
 day prior to Module 1 beginning.
 
-Here is the specific schedule for [Summer 2021](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the specific schedule for [Fall 
+2021](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Wed 19 May | Fri 21 May  
-M1 | Sat 22 May | Mon 31 May  
-M2 | Tue 1 Jun | Thu 10 Jun  
-M3 | Fri 11 Jun | Sat 20 Jun  
-M4 | Sun 21 Jun | Wed 30 Jun  
-M5 | Thu 1 Jul | Sat 10 Jul  
-M6 | Sun 11 Jul | Tue 20 Jul  
-M7 | Wed 21 Jul | Fri 30 Jul  
+M0 | Mon 16 Aug | Sun 22 Aug  
+M1 | Mon 23 Aug | Sun 5 Sep  
+M2 | Mon 6 Sep | Sun 19 Sep  
+M3 | Mon 20 Sep | Sun 3 Oct  
+M4 | Mon 4 Oct | Sun 17 Oct  
+M5 | Mon 18 Oct | Sun 31 Oct  
+M6 | Mon 1 Nov | Sun 14 Nov  
+M7 | Mon 15 Nov | Fri 3 Dec  
 
-Module 7 has less content to account for final exam preparation and other end
-of term issues. 
+Module 7 has less content to account for final exam preparation and other end of
+term issues. 
 
 # Module Structure
 
-Each of the seven content modules has the same structure with the following components.
+Each of the seven content modules has the same structure with the following
+components.
 
 - **Module Overview:** A brief introduction to the module content.
 - **Module At-A-Glance:** A more complete description of the module focus, tips
