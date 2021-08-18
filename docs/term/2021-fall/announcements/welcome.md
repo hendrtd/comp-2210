@@ -1,5 +1,5 @@
 
-Welcome to COMP 2210 Fall 2021!
+# Welcome to COMP 2210 Fall 2021!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's one of my favorite
@@ -16,12 +16,12 @@ instructional modality, course policies, grading and more.
 See you on Thursday, and War Eagle!
 
 
-Dean Hendrix
-Associate Professor and Associate Department Chair
-Director, CSSE Undergraduate Programs
-Department of Computer Science and Software Engineering
-3101D Shelby Center for Engineering Technology
-Auburn University, Auburn, AL 36849
-334-844-6305, hendrtd@auburn.edu
+> Dean Hendrix
+> Associate Professor and Associate Department Chair
+> Director, CSSE Undergraduate Programs
+> Department of Computer Science and Software Engineering
+> 3101D Shelby Center for Engineering Technology
+> Auburn University, Auburn, AL 36849
+> 334-844-6305, hendrtd@auburn.edu
 
 
