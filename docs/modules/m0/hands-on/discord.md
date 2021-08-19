@@ -5,6 +5,11 @@ forum. Discord provides an efficient way to ask and answer questions, discuss
 course topics (and off-course topics), and - most importantly - develop a sense
 of **community** in the class.
 
-Once the Discord server is ready, you'll receive a Canvas announcement with
-instructions on joining. So, nothing to do right now!
+To get started:
+
+1. Click the following link to join the course Discord server:
+   [https://discord.gg/Q2QXsnHPnA](https://discord.gg/Q2QXsnHPnA).
+1. Read the post in the `#rules` channel and acknowledge your agreement with a
+   `:thumbsup:` reaction to the indicated message.
+1. Explore the different channels and start engaging! 
 
