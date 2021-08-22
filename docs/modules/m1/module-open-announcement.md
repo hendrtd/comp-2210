@@ -31,7 +31,7 @@ As you begin Module 1, here are a few things to keep in mind.
   than 11:59 PM CT on the last day of the module.
 
 - Be sure to ask any questions that you have. The most efficient way to get
-  general questions answered is by posting to the course Q&A forum.
+  general questions answered is by posting to the course forum.
 
 Good luck, and have fun in the module!
 
