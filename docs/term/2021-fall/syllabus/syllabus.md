@@ -190,15 +190,16 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Office Hours | Zoom ID 
+GTA | Email | Lab Sections | Zoom Office Hours   
 --- | ----- | ------------ | -------
-Jordan Allred | `jra0027@auburn.edu` | TBA | 87149767177  
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | TBA | 3344980832  
-Abhishek Kulkarni | `aak0010@auburn.edu` | TBA | 2235097711  
-Li Sun | `lzs0070@auburn.edu` | TBA | 4127841107  
+Jordan Allred | `jra0027@auburn.edu` | 001, 005 Shelby 2205 | F 9:00-11:00, 328 346 9631    
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | 002, 006 Shelby 2210 | W 10:00-11:00, 3344980832  
+Abhishek Kulkarni | `aak0010@auburn.edu` | 003, 007 Shelby 2122 | M 2:00-3:00, 2235097711  
+Li Sun | `lzs0070@auburn.edu` | 004, 008 Shelby 2125 | M 2:00-3:00, 4127841107  
 
 
-All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
+All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place
+of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
 
 
 ---
