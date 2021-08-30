@@ -306,10 +306,15 @@ experience. Lack of engagement almost always leads to poor course performance.
 
 ## Excused Absences
 
-To have an absence excused you must first obtain an Excused Absence Memo from
-Engineering Student Services (ESS) for any absence that falls into categories 1
-through 6 in the AU Policy on Class Attendance. You should contact the course
-instructor directly for other absences.
+To have a covid-related absence excused you must provide the course instructor
+with an official email from the AU COVID-19 Resource Center (CRC). This email
+can only be obtained by filing a [student self-report
+form](http://auburn.edu/covid-resource-center/reporting/) with the CRC.
+
+To have a non-covid absence excused you must first obtain an Excused Absence
+Memo from Engineering Student Services (ESS) for any absence that falls into
+categories 1 through 6 in the AU Policy on Class Attendance. You should contact
+the course instructor directly for other absences.
 
 > Engineering Student Services provides excused absence memos to students who
 > present verifiable documentation related to university excused absences.  The
