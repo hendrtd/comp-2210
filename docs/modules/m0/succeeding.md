@@ -121,3 +121,14 @@ Here are a few resources on practice:
 - <https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice?>
 - <https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning>
   <!-- - https://www.apa.org/education/k12/practice-acquisition -->
+
+## Resources for coding practice
+
+Below are two good resources for practicing your coding with the intent of
+increasing **fluency**. Whether you think you're a bit rusty coming into the
+course, or whether you just want to keep your skills sharp, I recommend these
+and other similar resources for practice sessions outside of the course.
+
+- [https://open.kattis.com/](https://open.kattis.com/)
+- [https://codingbat.com/java](https://codingbat.com/java)
+
