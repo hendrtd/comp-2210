@@ -5,6 +5,14 @@
 - [Linked Structures](notes/10-Linked_Structures.pdf)
 - [`LinkedBag`](notes/11-LinkedBag.pdf)
 
+# Source Code
+
+- [Bag.java](src/Bag.java)
+- [ArrayBag.java](src/ArrayBag.java)
+- [LinkedBag.java](src/LinkedBag.java)
+- [ArrayBagClient.java](src/ArrayBagClient.java)
+- [LinkedBabClient.java](src/LinkedBagClient.java)
+
 # Supplemental Readings
 
 - Chapters 3 and 7 of Bailey, D. A. (2007). [*Java structures: Data structures in Java for the principled programmer ("Root 7" Edition)*](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf). Williams, MA: Williams University.
