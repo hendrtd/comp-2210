@@ -17,7 +17,7 @@ response from the choices presented.
 
 Be sure to observe the following rules as you take the exam.
 
-- You must complete the exam within 150 minutes from when you begin and before
+- You must complete the exam within 75 minutes from when you begin and before
   the end of the availability period.
 
 - Your exam must reflect your independent work with no outside help, and you
