@@ -33,22 +33,23 @@ Summer terms follow the same pattern, but set module 1-7 to be 10 days in
 duration, with Module 0 beginning on the first day of class and ending on the
 day prior to Module 1 beginning.
 
-Here is the specific schedule for [Fall 
-2021](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the specific schedule for [Spring 
+2022](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon 16 Aug | Sun 22 Aug  
-M1 | Mon 23 Aug | Sun 5 Sep  
-M2 | Mon 6 Sep | Sun 19 Sep  
-M3 | Mon 20 Sep | Sun 3 Oct  
-M4 | Mon 4 Oct | Sun 17 Oct  
-M5 | Mon 18 Oct | Sun 31 Oct  
-M6 | Mon 1 Nov | Sun 14 Nov  
-M7 | Mon 15 Nov | Fri 3 Dec  
+M0 | Wed 12 Jan | Sun 16 Jan  
+M1 | Mon 17 Jan | Sun 30 Jan  
+M2 | Mon 31 Jan | Sun 13 Feb  
+M3 | Mon 14 Feb | Sun 27 Feb  
+M4 | Mon 28 Feb | Sun 20 Mar  
+M5 | Mon 21 Mar | Sun 3 Apr  
+M6 | Mon 4 Apr  | Sun 17 Apr  
+M7 | Mon 18 Apr | Fri 4/29  
 
-Module 7 has less content to account for final exam preparation and other end of
-term issues. 
+Module 7 has less content to account for having two fewer days, final exam
+preparation, and other end of term issues. Note that the following no-class days
+are set by the University: January 17 (MLK Day), March 7-11 (Spring Break).
 
 # Module Structure
 
