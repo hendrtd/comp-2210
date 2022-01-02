@@ -100,20 +100,19 @@ it. Implement the algorithm and make it work. Is there code being discussed in
 the notes? Do it. Implement the code and make it work. It's great to know that
 you can decide if a value is in an array by examining no more than approximately
 *log*<sub>2</sub> of the total elements in the array (theory), but knowing that
-isn't very useful unless you can write the code to do it (practice).
+isn't very useful unless you can write the code to do it (practice). In computer
+science and software engineering, *knowing* is useless without *doing*.
 
 And being able to put that theory into practice brings up a different meaning of
 the word "practice" - engaging in an activity repeatedly in order to master it.
 This notion of
 [practice](https://en.wikipedia.org/wiki/Practice_(learning_method))  is
-essential in this course and in this field. In computer science and software
-engineering,  *knowing* is useless without *doing*. 
-
-If you want to learn to speak a different language, practice is the only way to
-achieve fluency. If you want to learn to play a musical instrument, practice is
-the only way to achieve competence and mastery. The same is true in this course;
-practice is the only way to become fluent in a programming language and
-proficient in writing programs. Take every opportunity you have to practice.
+essential in this course and in this field. If you want to learn to speak a
+different language, practice is the only way to achieve fluency. If you want to
+learn to play a musical instrument, practice is the only way to achieve
+competence and mastery. The same is true in this course; practice is the only
+way to become fluent in a programming language and proficient in writing
+programs. Take every opportunity you have to **practice**.
 
 Here are a few resources on practice:
 
