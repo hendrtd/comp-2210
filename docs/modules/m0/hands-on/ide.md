@@ -167,9 +167,9 @@ Emacs and vi are the old guard of text editors, each with its own legion of
 devoted followers who keep the [editor
 war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day.
 This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi.  This is Auburn-Alabama,
-Michigan-Ohio State, Army-Navy. If vi had oak trees, Emacs would have poisoned
-them. Think I'm kidding or exaggerating?  [I'm
-not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
+Michigan-Ohio State, Army-Navy. If vi had oak trees, Emacs would have [poisoned
+them](https://en.wikipedia.org/wiki/Toomer%27s_Corner). Think I'm kidding or
+exaggerating?  [I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
 
 Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and
 vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable,
