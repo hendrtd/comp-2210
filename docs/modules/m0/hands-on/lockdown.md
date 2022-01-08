@@ -17,7 +17,8 @@ without installation or configuration on your part.
 
 1. Open LockDown Browser on your lab computer. 
 
-1. Load Canvas in LockDown Browser, navigate to this quiz, and complete it.
+1. Load Canvas in LockDown Browser, navigate to this quiz, and complete it. When
+   prompted for an Access Code, enter `practice`. 
 
 1. Exit LockDown Browser.
 
@@ -38,7 +39,8 @@ before you complete the steps below.
 
 1. Open LockDown Browser on your laptop.
 
-1. Load Canvas in LockDown Browser, navigate to this quiz, and complete it.
+1. Load Canvas in LockDown Browser, navigate to this quiz, and complete it. When
+   prompted for an Access Code, enter `practice`.
 
 1. Exit LockDown Browser.
 
