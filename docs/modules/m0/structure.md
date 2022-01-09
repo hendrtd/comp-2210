@@ -45,7 +45,7 @@ M3 | Mon 14 Feb | Sun 27 Feb
 M4 | Mon 28 Feb | Sun 20 Mar  
 M5 | Mon 21 Mar | Sun 3 Apr  
 M6 | Mon 4 Apr  | Sun 17 Apr  
-M7 | Mon 18 Apr | Fri 4/29  
+M7 | Mon 18 Apr | Fri 29 Apr  
 
 Module 7 has less content to account for having two fewer days, final exam
 preparation, and other end of term issues. Note that the following no-class days
