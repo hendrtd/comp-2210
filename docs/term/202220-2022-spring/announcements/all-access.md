@@ -1,8 +1,8 @@
 # All Access Information
 
-> Note: This information is provided by the AU Bookstore. For questions
-> regarding All Access, please contact Russell Weldon at 334-844-1352 or
-> `books@auburn.edu`.
+> Note: This information is provided by the AU Bookstore, not your course
+> instructor. For questions regarding All Access, please contact Russell Weldon
+> at 334-844-1352 or `books@auburn.edu`.
 
 ## What is All Access?
 
@@ -11,7 +11,7 @@ Sometimes this will be a textbook, sometimes an access code. Your instructor has
 coordinated with the Bookstore to deliver this content for the course and help
 make sure you have what you need. All Access makes sure you are ready the first
 day of class, and the material is so much cheaper with this delivery that it’s
-the best way we can help you succeed in your courses at Auburn….financially and
+the best way we can help you succeed in your courses at Auburn financially and
 academically.
 
 ## What content am I getting?
@@ -34,14 +34,14 @@ access.
 If you want to opt out and not be charged, all you have to do is follow the
 instructions (see
 [https://www.aubookstore.com/t-txt_allaccessoptout1.aspx](https://www.aubookstore.com/t-txt_allaccessoptout1.aspx)).
-You’ll lose access at the end of the first week, unless you've purchased it on
+You’ll lose access at the end of the second week, unless you've purchased it on
 your own.
 
 ## How do I pay?
 
-If you’re still opted in on September 6, then we’ll send the charge to your next
+If you’re still opted in on February 2, then we’ll send the charge to your next
 ebill.  This will be labeled as the course on your ebill so you’ll know. You’ll
-get a reminder on September 3 to remind you about the deadline.
+get a reminder on February 1 to remind you about the deadline.
 
 ## What if I'm on scholarship?
 
