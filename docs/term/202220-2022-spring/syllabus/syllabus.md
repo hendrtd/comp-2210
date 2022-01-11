@@ -19,7 +19,7 @@ together for lecture and separately (by section) for lab.
 Section | Day | Time | Location  
 ------- | --- | ---- | --------  
 001 - 004 | TR | 8:00 AM - 9:15 AM  | Shelby 1103  
-D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID TBA  
+D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `880 7585 5567`  
 
 ## Lab
 
@@ -29,7 +29,7 @@ Section   | Day | Time | Location
 002       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
 003       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
 004       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
-D01       | TR | 9:30 AM - 10:45 AM | Zoom ID TBA  
+D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `829 9540 8434`  
 
 
 # Instructional Mode
