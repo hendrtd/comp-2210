@@ -25,10 +25,10 @@ D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `880 7585 5567`
 
 Section   | Day | Time | Location  
 -------   | --- | ---- | --------  
-001       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
-002       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
-003       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
-004       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
+001       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
+002       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
+003       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
+004       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
 D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `829 9540 8434`  
 
 
@@ -228,9 +228,9 @@ Auburn, AL 36849
 GTA | Email | Lab Section | Zoom Office Hours   
 --- | ----- | ------------ | -------
 Emma Ingram | `eci0004@auburn.edu` | 001, D01 | TBA  
-Yash Mahajan | `yzm0034@auburn.edu` | 002, D01 | TBA  
-Arju Reza | `arr0056@auburn.edu` | 003, D01 | TBA  
-Mehnaz Tabassum | `mzt0078@auburn.edu` | 004, D01 | TBA  
+Abhishek Kulkarni | `aak0010@auburn.edu` | 002, D01 | TBA 
+Yash Mahajan | `yzm0034@auburn.edu` | 003, D01 | TBA  
+Arju Reza | `arr0056@auburn.edu` | 004, D01 | TBA  
 
 
 All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place
