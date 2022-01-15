@@ -228,7 +228,7 @@ Auburn, AL 36849
 GTA | Email | Lab Section | Zoom Office Hours   
 --- | ----- | ------------ | -------
 Emma Ingram | `eci0004@auburn.edu` | 001, D01 | TR 1:00 PM - 2:00 PM `867 0368 8367`   
-Abhishek Kulkarni | `aak0010@auburn.edu` | 002, D01 | TBA 
+Abhishek Kulkarni | `aak0010@auburn.edu` | 002, D01 | M 11:00 AM - 12:00 PM `223 509 7711`  
 Yash Mahajan | `yzm0034@auburn.edu` | 003, D01 | TBA  
 Arju Reza | `arr0056@auburn.edu` | 004, D01 | TBA  
 
