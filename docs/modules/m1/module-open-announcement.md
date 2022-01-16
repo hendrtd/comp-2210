@@ -35,4 +35,4 @@ As you begin Module 1, here are a few things to keep in mind.
 
 Good luck, and have fun in the module!
 
-<img src="../../img/dh.jpg" width="100">
+<img src="../../img/rags.jpg" width="100">
