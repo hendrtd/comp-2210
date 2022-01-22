@@ -42,5 +42,5 @@ As you begin Module 2, here are a few things to keep in mind.
 
 Good luck, and War Eagle!
 
-<img src="../../img/dh.jpg" width="100">
+<img src="../../img/rags.jpg" width="100">
 
