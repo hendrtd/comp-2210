@@ -23,7 +23,7 @@ As you begin Module 2, here are a few things to keep in mind.
   algorithms and partial code being presented. 
 
 - The assignment in this module is almost the same as the assignment from Module
-  1. In fact, you're solving the *exact same problems*. The difference is in the
+  1, and in fact, you're solving the *exact same problems*. The difference is in the
   level of abstraction and generality. Where before you dealt with arrays of
   `int` values, now you're dealing with `Collection`s of an unknown type. Be
   sure to take advantage of the fact that *linear scan* is still the solution to
