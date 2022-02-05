@@ -1,10 +1,9 @@
 # Lab Test 1 and Exam 1
 
-**Lab Test 1** will be given on **Tuesday, September 21**. Students in the
-Campus sections must take the lab test during their scheduled lab time and in
-their scheduled lab room. Students in the Distance section must take the lab
-test during the scheduled lecture time and must use the designated proctoring
-system (details to follow in a separate announcement).
+**Lab Test 1** will be given on **Tuesday, February 15**. Students in the Campus
+sections must take the lab test during their scheduled lab time and in their
+scheduled lab room. Students in the Distance section must take the lab test
+during their scheduled lab time and must use the ProctorU procotoring system.
 
 **Exam 1** will be given on **Thursday, September 23**. Students in the Campus
 sections must take the exam during their scheduled lab time and in their
