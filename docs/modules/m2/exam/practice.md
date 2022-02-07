@@ -1,10 +1,10 @@
 # PRACTICE Exam 1
 
-This practice exam provides similar questions presented in the same environment
-as the real exam. The following instructions are exactly the same as those for
-the real exam. You are encouraged to observe all the rules (even though they are
-not enforced on practice exams) so you can prepare under the same conditions as
-in the real exam.
+This practice exam provides questions similar to those that will appear in the
+real exam. The following instructions are exactly the same as those for the real
+exam. You are encouraged to observe all the rules (even though they are not
+enforced on practice exams) so you can prepare under the same conditions as in
+the real exam.
 
 --- 
 
