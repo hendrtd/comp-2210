@@ -2,18 +2,20 @@
 
 **Lab Test 1** will be given on **Tuesday, February 15**. You must take the lab
 test during your scheduled lab time and in your scheduled lab room. The lab test
-has a 75-minute time limt
+has a 75-minute time limit and must be completed before the end of your lab
+session regardless of when you start.
 
-**Exam 1** will be given on **Thursday, September 23**. Students in the Campus
-sections must take the exam during their scheduled lab time and in their
-scheduled lab room. Students in the Distance section must take the exam during
-the scheduled lecture time and must use the designated proctoring system
-(details to follow in a separate announcement).
+**Exam 1** will be given on **Thursday, February 17**. You must take the exam
+during your scheduled lab time and in your scheduled lab room. The exam has a
+75-minute time limit and must be completed before the end of your lab session
+regardless of when you start. You must use Respondus LockDown Browser to take
+the exam. You should retake the hands-on activity in Module 0 that has you use
+Respondus LockDown Browser, just to make sure you can use it before the exam.
 
-Exam 1 and Lab Test 1 cover the material in Module 1 and Module 2, and each has
-a 75-minute time limit. Here are practice opportunities for each.
+Exam 1 and Lab Test 1 cover the material in Module 1 and Module 2. Below are
+links to practice opportunities for each.
 
 - [Practice Lab Test
-  1](https://auburn.instructure.com/courses/1357079/assignments/11017430)
+  1](https://auburn.instructure.com/courses/1391211/assignments/11701456)
 - [Practice Exam
-  1](https://auburn.instructure.com/courses/1357079/quizzes/3112754)
+  1](https://auburn.instructure.com/courses/1391211/quizzes/3278535)
