@@ -33,7 +33,7 @@ As you begin Module 3, here are a few things to keep in mind.
   than 11:59 PM CT on the last day of the module.
 
 - Be sure to ask any questions that you have. The most efficient way to get
-  general questions answered is by posting to the course discussion forum. Don’t
+  general questions answered is by posting to the course Q&A forum. Don’t
   hesitate to reach out if you need any help or have any questions.
 
 Good luck, and have fun!
