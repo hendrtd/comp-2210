@@ -6,6 +6,18 @@
 
 # Source Code
 
+## Lists
+
+- [`Bag.java`](src/Bag.java)
+- [`ArrayBag.java`](src/ArrayBag.java)
+- [`ArrayBagClient.java`](src/ArrayBagClient.java)
+- [`ArrayBagTest.java`](src/ArrayBagTest.java)
+- [`LinkedBag.java`](src/LinkedBag.java)
+- [`LinkedBagClient.java`](src/LinkedBagClient.java)
+- [`LinkedBagTest.java`](src/LinkedBagTest.java)
+
+## Breadth-first and Depth-first search
+
 - [`GridWalker.java`](src/GridWalker.java)
 - [`GridWalkerClient.java`](src/GridWalkerClient.java)
 - [`MazeSearcher.java`](src/MazeSearcher.java)
