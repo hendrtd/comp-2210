@@ -148,12 +148,13 @@ Module 0 materials in the course.
 
 ### Abhishek Kulkarni
 
+<img src="https://s.gravatar.com/avatar/b6729723d82056502f3d4d7e546928c3?s=80" />
+
 PhD Student  
 Computer Science and Software Engineering  
 Auburn University  
-Email:   
-Voice:   
-Zoom:   
+Email: `aak0010@auburn.edu`     
+Zoom ID: `2235097711`     
 **Office Hours:** Time TDB, online via Zoom  
 *Other times available by appointment.*  
 
