@@ -133,12 +133,6 @@ installing and reliably running
 
 
 
-## Respondus LockDown Browser
-
-The Respondus LockDown Browswer will be required for all exams.  Instructions on
-installing and using the LockdDown Browser will be provided as part of the
-Module 0 materials in the course.
-
 
 ---
 
