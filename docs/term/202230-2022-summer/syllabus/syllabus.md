@@ -149,7 +149,7 @@ Computer Science and Software Engineering
 Auburn University  
 Email: `aak0010@auburn.edu`     
 Zoom ID: `2235097711`     
-**Office Hours:** Time TDB, online via Zoom  
+**Office Hours:** Thursdays 1:00 PM CT - 3:00 PM CT, online via Zoom  
 *Other times available by appointment.*  
 
 
