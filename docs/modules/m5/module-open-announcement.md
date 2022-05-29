@@ -39,5 +39,5 @@ As always, please reach out if you have any questions concerning the course.
 
 Good luck, and have fun!
 
-<img src="../../img/rags.jpg" width="100">
+<!-- <img src="../../img/rags.jpg" width="100"> -->
 
