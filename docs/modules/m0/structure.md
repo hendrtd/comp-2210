@@ -12,9 +12,9 @@ methods](https://en.wikipedia.org/wiki/Agile_software_development), you'll
 recognize similarities to
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
 
-Scheduling, planning, and knowing when things are due are easy with timeboxed
-modules. All graded items are scheduled to be due or delivered on module
-boundaries. Specifically:
+Scheduling, planning, and knowing when things are due are easily done with
+timeboxed modules. All graded items are scheduled to be due or delivered on
+module boundaries. Specifically:
 
 - Each assignment is due on the last day of the module that contains it.
 - Each hands-on activity is due on the last day of the module that contains it.
@@ -29,23 +29,27 @@ half-term). For 15-week and 7.5-week terms, Module 0 begins on the first day of
 classes for the term and ends on the first Sunday of the term. Each module 1-7
 begins on a Monday and ends on a Sunday. The duration of each module 1-7 is the
 same but varies by term (14 days for fall/spring and 7 days for half-term).
-Summer terms follow the same pattern, but set module 1-7 to be 10 days in
+Summer terms follow the same pattern, but modules 1-7 are set to be 10 days in
 duration, with Module 0 beginning on the first day of class and ending on the
 day prior to Module 1 beginning.
 
-Here is the specific schedule for [Summer  
-2022](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the specific schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php).
 
-Module | Begin | End
------- | ----- | ---
-M0 | Wed 18 May  | Sun 22 May     
-M1 | Mon 23 May  | Wed 1 June    
-M2 | Thu 2 June  | Sat 11 June    
-M3 | Sun 12 June | Tue 21 June    
-M4 | Wed 22 June | Fri 1 July    
-M5 | Sat 2 July  | Mon 11 July   
-M6 | Tue 12 July | Thu 21 July    
-M7 | Fri 22 July | Sun 31 July    
+Module | Begin      | End        | Duration 
+------ | ---------- | ---------- | --------   
+M0     | Tue 16 Aug | Sun 21 Aug | (6 days)  
+M1     | Mon 22 Aug | Sun 4 Sep  | (14 days)  
+M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)+    
+M3     | Mon 19 Sep | Sun 2 Oct  | (14 days)  
+M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)+  
+M5     | Mon 17 Oct | Sun 30 Oct | (14 days)   
+M6     | Mon 31 Oct | Sun 13 Nov | (14 days)  
+M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)+   
+
++ University No-Class Days  
+Labor Day: Mon 5 Sep  
+Fall Break: Thu 6 Oct - Fri 7 Oct  
+Thanksgiving: Mon 21 Nov - Fri 25 Nov   
 
 
 # Module Structure
