@@ -33,23 +33,24 @@ Summer terms follow the same pattern, but modules 1-7 are set to be 10 days in
 duration, with Module 0 beginning on the first day of class and ending on the
 day prior to Module 1 beginning.
 
-Here is the specific schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php)
+which includes 109 calendar days.
 
 Module | Begin      | End        | Duration 
 ------ | ---------- | ---------- | --------   
 M0     | Tue 16 Aug | Sun 21 Aug | (6 days)  
 M1     | Mon 22 Aug | Sun 4 Sep  | (14 days)  
-M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)[^+]  
+M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)^  
 M3     | Mon 19 Sep | Sun 2 Oct  | (14 days)  
-M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)+  
+M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)^  
 M5     | Mon 17 Oct | Sun 30 Oct | (14 days)   
 M6     | Mon 31 Oct | Sun 13 Nov | (14 days)  
-M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)+   
+M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)^     
 
-[^+] University No-Class Days  
-Labor Day: Mon 5 Sep  
-Fall Break: Thu 6 Oct - Fri 7 Oct  
-Thanksgiving: Mon 21 Nov - Fri 25 Nov   
+^ *University No-Class Days:*  
+- Labor Day: Mon 5 Sep  
+- Fall Break: Thu 6 Oct - Fri 7 Oct  
+- Thanksgiving: Mon 21 Nov - Fri 25 Nov   
 
 
 # Module Structure
