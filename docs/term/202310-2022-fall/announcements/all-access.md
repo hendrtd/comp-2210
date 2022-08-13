@@ -56,8 +56,6 @@ deadline will be crucial for you to decide if you want to be charged or not.
 
 ## What if I need help?
 
-- Remember to check your email for zybooks info.  
-
 - For most digital content in All Access, Google Chrome works best as a browser
   and you’ll want to make sure it’s up to date.  
 
