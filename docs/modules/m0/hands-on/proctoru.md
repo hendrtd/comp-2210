@@ -1,5 +1,7 @@
 # Getting Started with ProctorU
 
+**DEPRECATED: NOT USED BEGINNING FALL 2022**
+
 Students in the Distance section *must* use the
 [ProctorU](https://www.proctoru.com/) proctoring software to take all course
 exams.  Students in Campus sections *may* be required to use ProctorU for
