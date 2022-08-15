@@ -19,7 +19,7 @@ together for lecture and separately (by section) for lab.
 Section | Day | Time | Location  
 ------- | --- | ---- | --------  
 001 - 004 | TR | 8:00 AM - 9:15 AM  | Shelby 1103  
-D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `TBD`  
+D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `867 4451 0711`  
 
 ## Lab
 
@@ -368,15 +368,10 @@ experience. Lack of engagement almost always leads to poor course performance.
 
 ## Excused Absences
 
-To have a covid-related absence excused you must provide the course instructor
-with an official email from the AU COVID-19 Resource Center (CRC). This email
-can only be obtained by filing a [student self-report
-form](http://auburn.edu/covid-resource-center/reporting/) with the CRC.
-
-To have a non-covid absence excused you must first obtain an Excused Absence
-Memo from Engineering Student Services (ESS) for any absence that falls into
-categories 1 through 6 in the AU Policy on Class Attendance. You should contact
-the course instructor directly for other absences.
+To have an absence excused you must first obtain an Excused Absence Memo from
+Engineering Student Services (ESS) for any absence that falls into categories 1
+through 6 in the AU Policy on Class Attendance. You should contact the course
+instructor directly for other absences.
 
 > Engineering Student Services provides excused absence memos to students who
 > present verifiable documentation related to university excused absences.  The
@@ -403,7 +398,7 @@ A missed exam or test can only be made up for excused absences (see policy).
 Students must contact the instructor **within 48 hours** from the time that the
 exam or test was given or the exam or test score will remain zero. The makeup
 schedule is determined by the instructor and will need to be done within five
-business days from the time that the exam or test was given.  
+business days from the time that the exam or test was given. 
 
 
 ## Late Assignment Submission
@@ -419,12 +414,12 @@ exception to this policy (e.g., medical emergency) you must treat this as an
 If connectivity issues (e.g., Internet connection problems, electrical power
 failures) prevent you from completing an element of the course on time, you must
 notify the instructor immediately when the incident occurs (email to
-`dh@auburn.edu` and/or voicemail to 334-844-6305) and then provide appropriate
-documentation (e.g., service provider notices) within one hour of the incident.
-No extensions or makeup opportunities will be available otherwise. Note that
-excuses for connectivity issues within 30 minutes of an assignment deadline are
-unlikely to be approved. Those situations can be prevented or mitigated with
-planning and time management.
+`dean.hendrix@auburn.edu` and/or voicemail to 334-844-6305) and then provide
+appropriate documentation (e.g., service provider notices) within one hour of
+the incident.  No extensions or makeup opportunities will be available
+otherwise. Note that excuses for connectivity issues within 30 minutes of an
+assignment deadline are unlikely to be approved. Those situations can be
+prevented or mitigated with planning and time management.
 
 
 ## Time Commitment
