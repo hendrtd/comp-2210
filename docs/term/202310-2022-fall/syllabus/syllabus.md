@@ -25,10 +25,10 @@ D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `867 4451 0711`
 
 Section   | Day | Time | Location  
 -------   | --- | ---- | --------  
-001       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
-002       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
-003       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
-004       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
+001       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
+002       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
+003       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
+004       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
 D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `TBD`  
 
 
