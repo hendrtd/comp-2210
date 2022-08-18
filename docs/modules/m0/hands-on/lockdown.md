@@ -26,9 +26,9 @@ without installation or configuration on your part.
 ## Using Your Own Laptop
 
 You will want to ensure that LockDown Browser is installed on your laptop and
-that you have practiced taking an exam on it. Please read [this document from
-the AU Biggio Center](https://wp.auburn.edu/biggio/download-lockdown-browser/)
-before you complete the steps below.
+that you have practiced taking an exam on it. You will be prompted to download
+and install Lockdown Browser when you attempt to take the quiz for the first
+time. See the following article for details: [https://aub.ie/downloadlockdown](https://aub.ie/downloadlockdown).
 
 1. Load Canvas in a normal browser (Chrome, Firefox, Safari, etc.).
 
