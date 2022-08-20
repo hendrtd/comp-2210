@@ -27,8 +27,8 @@ Section   | Day | Time | Location
 -------   | --- | ---- | --------  
 001       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
 002       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
-003       | TR | 9:30 AM - 10:45 AM | Shelby 2122  
-004       | TR | 9:30 AM - 10:45 AM | Shelby 2125  
+003       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
+004       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
 D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `TBD`  
 
 
@@ -227,15 +227,11 @@ Zoom ID: `2235097711`
 
 ## Teaching Assistants
 
-GTA | Email | Lab Section | Zoom Office Hours   
---- | ----- | ------------ | -------
-TBA | | |  
-TBA | | |  
-TBA | | |  
-TBA | | |  
+GTA | Email | Lab Section  
+--- | ----- | ------------  
+Yash Mahajan | yzm0034@auburn.edu | 001, 004 |  
+Cabel Powell | cmp0132@auburn.edu | 002, 003 |  
 
-All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place
-of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
 
 
 ---
