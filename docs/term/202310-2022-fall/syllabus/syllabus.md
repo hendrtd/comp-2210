@@ -230,7 +230,7 @@ Zoom ID: `2235097711`
 GTA | Email | Lab Section  
 --- | ----- | ------------  
 Yash Mahajan | yzm0034@auburn.edu | 001, 004 |  
-Cabel Powell | cmp0132@auburn.edu | 002, 003 |  
+Caleb Powell | cmp0132@auburn.edu | 002, 003 |  
 
 
 
