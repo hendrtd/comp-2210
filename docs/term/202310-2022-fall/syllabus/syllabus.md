@@ -29,7 +29,7 @@ Section   | Day | Time | Location
 002       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
 003       | TR | 9:30 AM - 10:45 AM | Shelby 2210  
 004       | TR | 9:30 AM - 10:45 AM | Shelby 2205  
-D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `TBD`  
+D01       | TR | 9:30 AM - 10:45 AM | Zoom ID `842 8386 2192`  
 
 
 # Instructional Mode
