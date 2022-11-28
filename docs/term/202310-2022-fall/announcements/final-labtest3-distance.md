@@ -1,21 +1,19 @@
-# Final Exam and Lab Test 3 - Distance Sections
+# Lab Test 3 and Final Exam - Distance Section
 
-**Lab Test 3** will be given on **Tuesday, April 26**. You must take the lab
-test during your scheduled lab time. The lab test has a 75-minute time limit and
-must be completed before the end of your lab session regardless of when you
-start.
+Due to both technical and scheduling issues, no proctoring system will be used
+for Lab Test 3 and the Final Exam.
 
-The **Final Exam** will be given on **Thursday, April 28**. You must take the
-exam during your scheduled lab time. The exam has a 75-minute time limit and
-must be completed before the end of your lab session regardless of when you
-start. You must use ProctorU to take the exam. You do **not** have to schedule
-the exam with ProctorU. You should retake the hands-on activity in Module 0 that
-has you practice using ProctorU, just to make sure that you can use ProctorU
-before the exam.
+**Lab Test 3** will be given on **Tuesday, November 29**. You can take the lab
+test in any 75-minute time block beginning at 12:01 AM CT and ending no later
+than 11:59 PM CT on that day. You can make unlimited submissions during the
+75-minute period, and your score will be based strictly on the percentage of
+test cases passed.
 
-The Final Exam and Lab Test 3 cover the material in Modules 5, 6, and 7, and each has
-a 75-minute time limit. Below are links to practice opportunities for each.
+The **Final Exam** will be given on **Thursday, December 1**. You can take the
+exam in any 75-minute time block beginning at 12:01 AM CT and ending no later
+than 11:59 PM CT on that day. Canvas will allow only one attempt at the exam.
 
-- [Practice Lab Test 3](https://auburn.instructure.com/courses/1391211/assignments/11701458)
-- [Practice Final Exam](https://auburn.instructure.com/courses/1391211/quizzes/3278524)
+The Final Exam and Lab Test 3 cover the material in Modules 5, 6, and 7.
+Practice opportunities for each are availabe under Assignments in the left menu
+of Canvas.
 
