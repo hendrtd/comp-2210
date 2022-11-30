@@ -10,7 +10,8 @@ The remainder of these instructions are exactly the same as those for the real
 lab test. You are encouraged to observe all the rules (even though they are not
 enforced for practice tests) so you can practice under the same conditions as in
 the real lab test. This includes completing the test completely within the
-Vocareum environment.
+Vocareum environment and within the 75-minute time limit that will be enforced
+during the real lab test.
 
 ---  
 
