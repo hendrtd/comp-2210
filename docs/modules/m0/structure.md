@@ -23,34 +23,25 @@ module boundaries. Specifically:
 - Each lab test is given immediately after the last day of the module that
   contains it.
 
-This overall course structure is the same regardless of course delivery mode
-(in-person or online) or term (15-week fall/spring, 10-week summer, or 7.5 week
-half-term). For 15-week and 7.5-week terms, Module 0 begins on the first day of
-classes for the term and ends on the first Sunday of the term. Each module 1-7
-begins on a Monday and ends on a Sunday. The duration of each module 1-7 is the
-same but varies by term (14 days for fall/spring and 7 days for half-term).
-Summer terms follow the same pattern, but modules 1-7 are set to be 10 days in
-duration, with Module 0 beginning on the first day of class and ending on the
-day prior to Module 1 beginning.
+The timeboxed organization of the course is as follows. Module 0 begins on the
+first day of classes for the term and ends on the first Sunday of the term.
+Each module 1-7 begins on a Monday and ends on the following Sunday. Here is the
+schedule for [this term](http://www.auburn.edu/main/auweb_calendar.php).
 
-Here is the schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php)
-which includes 109 calendar days.
-
-Module | Begin      | End        | Duration 
------- | ---------- | ---------- | --------   
-M0     | Tue 16 Aug | Sun 21 Aug | (6 days)  
-M1     | Mon 22 Aug | Sun 4 Sep  | (14 days)  
-M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)^  
-M3     | Mon 19 Sep | Sun 2 Oct  | (14 days)  
-M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)^  
-M5     | Mon 17 Oct | Sun 30 Oct | (14 days)   
-M6     | Mon 31 Oct | Sun 13 Nov | (14 days)  
-M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)^     
+Module | Dates                   | Duration 
+------ | ----------------------- | --------   
+M0     | Wed 11 Jan - Sun 15 Jan | (5 days)  
+M1     | Mon 16 Jan - Sun 29 Jan | (14 days)^  
+M2     | Mon 30 Jan - Sun 12 Feb | (14 days)  
+M3     | Mon 13 Feb - Sun 26 Feb | (14 days)  
+M4     | Mon 27 Feb - Sun 19 Mar | (21 days)^  
+M5     | Mon 20 Mar - Sun 02 Apr | (14 days)  
+M6     | Mon 03 Apr - Sun 16 Apr | (14 days)  
+M7     | Mon 17 Apr - Fri 28 Apr | (12 days)  
 
 ^ *University No-Class Days:*  
-- Labor Day: Mon 5 Sep  
-- Fall Break: Thu 6 Oct - Fri 7 Oct  
-- Thanksgiving: Mon 21 Nov - Fri 25 Nov   
+- M. L. King Jr. Day: Mon 16 Jan   
+- Spring Break: Mon 6 Mar - Fri 10 Mar  
 
 
 # Module Structure
