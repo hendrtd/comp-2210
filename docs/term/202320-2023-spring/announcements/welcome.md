@@ -16,7 +16,7 @@ first lab meeting.
 The Canvas course for COMP 2210 will be published and available no later than
 Monday, January 16.
 
-See you next week, and War Eagle!
+See you on January 17, and War Eagle!
 
 
 > Dean Hendrix  
