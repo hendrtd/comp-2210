@@ -140,10 +140,13 @@ A good text editor can be used for far more than programming, and this is
 another advantage of going this route. Once you get comfortable with a
 powerful text editor, you'll want to use it for most everything.
 
-#### Sublime and Atom
+#### Sublime, Zed, NotePad++
 
-Sublime Text and Atom are modern, powerful text editors that are very similar
-in functionality but dramatically different in implementation. 
+Sublime Text is a well-known example of a set of modern, powerful text editors.
+I've included two other examples (Zed and NotePad++), but there are many
+offerings in this category and most are supported by extensive package managers
+that allow features to added and removed. Certain collections of these features
+can offer a level of tool integration that can feel like a simple IDE.
 
 [Sublime](https://www.sublimetext.com/) is implemented in C++ and Python and 
 offers significant speed even under heavy workloads. Sublime is a
@@ -151,15 +154,14 @@ closed-source project developed by a small private company (Sublime HQ) in
 Australia. A limited version of Sublime is available for free, but the full
 version - with all the nice features you really want - must be purchased.
 
-[Atom](https://atom.io/) is implemented using web technologies  (Chromium,
-JavaScript, CoffeeScript, etc.) and sacrifices speed for extreme customization
-capabilities ("hackable" is the term used by its developers). Atom is an
-open-source project developed by GitHub and maintained by a large developer
-base. Atom is completely free.
+[Zed](https://zed.dev/) is an impressive successor to
+[Atom](https://github.blog/2022-06-08-sunsetting-atom/) but it is still in the
+development stage. You can sign up to use a pre-release version if interested
+and is (currently) completely free.
 
-Both Sublime and Atom are supported by extensive package managers that allow
-features to be added and removed. Certain collections of features can offer a
-level of tool integration that can feel like a simple IDE.
+[NotePad++](https://notepad-plus-plus.org/) is a popular editor for Windows
+users. Most of the features are similar to what you would find in Sublime and VS
+Code.
 
 #### Emacs and vi
  
