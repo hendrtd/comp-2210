@@ -38,5 +38,5 @@ As you begin Module 3, here are a few things to keep in mind.
 
 Good luck, and have fun!
 
-<!-- <img src="../../img/rags.jpg" width="100"> -->
+<img src="../../img/rags.jpg" width="100">
 
