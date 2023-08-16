@@ -25,24 +25,27 @@ module boundaries. Specifically:
 
 The timeboxed organization of the course is as follows. Module 0 begins on the
 first day of classes for the term and ends on the first Sunday of the term.
-Each module 1-7 begins on a Monday and ends on the following Sunday. Here is the
-schedule for [this term](http://www.auburn.edu/main/auweb_calendar.php).
+Each module 1-7 begins on a Monday and ends on a Sunday. Here is the schedule
+for [this term](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Wed 17 May - Sun 21 May | (5 days)  
-M1     | Mon 22 May - Wed 31 May | (10 days)  
-M2     | Thu 01 Jun - Sat 10 Jun | (10 days)  
-M3     | Sun 11 Jun - Tue 20 Jun | (10 days)  
-M4     | Wed 21 Jun - Fri 30 Jun | (10 days)  
-M5     | Sat 01 Jul - Mon 10 Jul | (10 days)  
-M6     | Tue 11 Jul - Thu 20 Jul | (10 days)  
-M7     | Fri 21 Jul - Mon 31 Jul | (11 days)  
+M0     | Wed 16 Aug - Sun 20 Aug | (5 days)  
+M1     | Mon 21 Aug - Sun 03 Sep | (14 days)  
+M2     | Mon 04 Sep - Sun 17 Sep | (14 days)^  
+M3     | Mon 18 Sep - Sun 01 Oct | (14 days)  
+M4     | Mon 02 Oct - Sun 15 Oct | (14 days)^  
+M5     | Mon 16 Oct - Sun 29 Oct | (14 days)  
+M6     | Mon 30 Oct - Sun 12 Nov | (14 days)  
+M7     | Mon 13 Nov - Fri 01 Dec | (19 days)^  
 
 ^ *University No-Class Days:*  
 These days will be avoided when scheduling exams, but are included as normal
 instructional days in the course. 
 
+Mon 04 Sep - Labor Day
+Fri 13 Oct - Fall Break
+Mon Nov 20 through Fri Nov 24 - Thanksgiving Break
 
 
 # Module Structure
