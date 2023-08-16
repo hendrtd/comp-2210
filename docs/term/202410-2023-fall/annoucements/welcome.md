@@ -19,6 +19,6 @@ See you on August 17, and War Eagle!
 > Department of Computer Science and Software Engineering  
 > 3101D Shelby Center for Engineering Technology  
 > Auburn University, Auburn, AL 36849  
-> 334-844-6305, hendrtd@auburn.edu  
+> 334-844-6305, dean.hendrix@auburn.edu  
 
 
