@@ -215,7 +215,10 @@ Auburn, AL 36849
 
 GTA | Email | Lab Room
 --- | ----- | ------------  
-TBD | TBD   | TBD  
+Jessica Bozhko | jab0245@auburn.edu | TBD   
+Lauren Lyons   | lnl0017@auburn.edu | TBD   
+Noah Moyers    | ncm0034@auburn.edu | TBD   
+Chaohui Ren    | czr0050@auburn.edu | TBD  
 
 
 
