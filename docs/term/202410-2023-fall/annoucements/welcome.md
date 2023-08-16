@@ -6,10 +6,9 @@ important foundational courses in the curriculum. It's also one of my favorite
 courses to teach and I'm looking forward to this semester!  
 
 The first lecture will be on *Thursday, August 17* from 8:00 AM CT - 9:15 AM CT
-in Shelby 1103 for the Campus sections (001 - 004) and in Zoom (`TBD`) for
-the Distance section (D01). Labs will begin on Tuesday, August 22 from 9:30 AM
-CT - 10:45 AM CT in the computer labs shown in Tiger Scheduler for the Campus
-sections and in Zoom (`TBD`) for the Distance section.
+in Shelby 1103 for the Campus sections (001 - 004) and in Zoom (`893 7371 4219`)
+for the Distance section (D01). Labs will not meet the first week of classes but
+will begin on August 22.
 
 See you on August 17, and War Eagle!
 
