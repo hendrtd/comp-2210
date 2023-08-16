@@ -19,7 +19,7 @@ together for lecture and separately in smaller groups for lab.
 Section   | Day | Time | Location  
 --------- | --- | ---- | --------  
 001 - 004 | TR | 8:00 AM - 9:15 AM  | Shelby 1103  
-D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `TBD`  
+D01       | TR | 8:00 AM - 9:15 AM  | Zoom ID `893 7371 4219`  
 
 ## Lab
 
@@ -29,7 +29,7 @@ Section   | Day | Time | Location
 002       | TR  | 9:30 AM - 10:45 AM | Shelby 2210  
 003       | TR  | 9:30 AM - 10:45 AM | Shelby 2122  
 004       | TR  | 9:30 AM - 10:45 AM | Shelby 2125  
-D01       | TR  | 9:30 AM - 10:45 AM | Zoom ID `TBD`  
+D01       | NA  | NA                 | NA  
 
 
 # Instructional Mode
@@ -44,19 +44,17 @@ modalities are described below for each section type.
   in person, and students enrolled in the Distance section are expected to
   attend lecture via Zoom. Attendance is not required for either section type.
 
-- *Lab meetings*: Labs will be delivered in person and simulcast live via Zoom.
+- *Lab meetings*: Labs will be delivered in person only. 
   Students enrolled in a Campus section are expected to attend labs in person,
-  and students enrolled in the Distance section are expected to attend labs via
-  Zoom. Attendance is not required for either section type.
+  Attendance is not required for either section type.
 
-- *Exams and Tests*: Exams and Programming Tests must be taken during lab
-  meetings.  Students in Campus sections are required to take exams and tests in
-  the schedule lab room. Students in the Distance section are required to take
-  exams and tests using a proctoring system to be announced.
+- *Exams and Tests*: Exams and Programming Tests must be taken on the date and
+  time specified.  Students in Campus sections are required to take exams and
+  tests in the schedule lab room. Students in the Distance section are required
+  to take exams and tests using a proctoring system to be announced.
 
-- *Office Hours*: Instructor office hours will be held via Zoom per the schedule
-  listed in a separate section in this syllabus. In-person meetings are
-  available by appointment.
+- *Office Hours*: Instructor office hours are available by appointment. Both in
+  person and online meetings are accepted.
 
 ### Notes On In-Person Attendance
 
@@ -210,7 +208,7 @@ Auburn, AL 36849
 +1 334 844 6305  
 `dean.hendrix@auburn.edu`  
 <http://eng.auburn.edu/csse>  
-**Office Hours:** By appointment, online at <https://aub.ie/dean-hendrix-zoom>  
+**Office Hours:** By appointment
 
 
 ## Teaching Assistants
