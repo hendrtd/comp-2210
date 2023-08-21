@@ -8,11 +8,12 @@ directly to your eBill via Auburn's [All
 Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx) program.  Do
 **not** go to the Vocareum website directly to sign up or pay. Instead, your
 Vocareum account will be automatically created when you access the Vocareum
-activity on the next page in this module and enter the access code that was
-given to you in an email from the AU Bookstore. This will not only activate your
-Vocareum account, but it will also link your Vocareum account to your Canvas
-account, and will automatically post the scores you earn in Vocareum to the
-Canvas gradebook for this course.
+activity via the "Load in a New Window" button at the bottom of this page. This
+will load Vocareum and you will be prompted to enter the access code that was
+given to you in an email from the AU Bookstore.  This will not only activate
+your Vocareum account, but it will also link your Vocareum account to your
+Canvas account, and will automatically post the scores you earn in Vocareum to
+the Canvas gradebook for this course.
 
 # Using Vocareum
 
