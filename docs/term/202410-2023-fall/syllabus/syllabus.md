@@ -213,12 +213,12 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Lab Room
---- | ----- | ------------  
-Jessica Bozhko | jab0245@auburn.edu | TBD   
-Lauren Lyons   | lnl0017@auburn.edu | TBD   
-Noah Moyers    | ncm0034@auburn.edu | TBD   
-Chaohui Ren    | czr0050@auburn.edu | TBD  
+GTA | Email | Lab Section, Room
+--- | ----- | -----------------  
+Jessica Bozhko | jab0245@auburn.edu | Section 001, Shelby 2205   
+Lauren Lyons   | lnl0017@auburn.edu | Section 002, Shelby 2210   
+Noah Moyers    | ncm0034@auburn.edu | Section 003, Shelby 2122   
+Chaohui Ren    | czr0050@auburn.edu | Shelby 2125, Shelby 2125  
 
 
 
