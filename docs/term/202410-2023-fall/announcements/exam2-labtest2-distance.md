@@ -18,3 +18,10 @@ Exam 2 and Lab Test 2 cover the material in Module 3 and Module 4. Practice
 opportunities for each are available in the Practice Exams and Tests
 assignments category.
 
+All lab tests and exams in this course are **closed-book** and **closed-notes**,
+with no outside resources allowed unless specifically stated in the test or exam
+itself. Possession, receipt, or transmission of material or assistance not
+explicitly authorized in the test or exam is a violation of the Auburn
+University Academic Honesty Code.
+
+
