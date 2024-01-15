@@ -158,7 +158,11 @@ Auburn, AL 36849
 
 GTA | Email | Lab Sections
 --- | ----- | ------------     
-TBA | TBA   | TBA   
+Tripp Isbell | cai0004@auburn.edu | 003, 008  
+Lauren Lyons | lnl0017@auburn.edu | 002, 007  
+Annie Murphy | arm0129@auburn.edu | 001, 006  
+Chaohui Ren  | czr0050@auburn.edu | 004, 009  
+TBD          | TBD                | 005, 010  
 
 
 ---
