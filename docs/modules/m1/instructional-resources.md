@@ -7,7 +7,7 @@
 
 # Supplemental Readings
 
-- Chapters 1-4 of Bailey, D. A. (2007). [*Java structures: Data structures in
+- Chapters 2, 4, 8, 11 of Bailey, D. A. (2007). [*Java structures: Data structures in
   Java for the principled programmer ("Root 7"
   Edition)*](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf).
   Williams, MA: Williams University.
