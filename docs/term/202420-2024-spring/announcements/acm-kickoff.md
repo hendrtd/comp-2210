@@ -13,7 +13,7 @@ The ACM chapter hosts a Kick-Off meeting at the beginning of each fall and sprin
 
 > Hello students! Auburn Association for Computing Machinery will be holding its Spring Semester Kickoff this Thursday, January 18th, at 5:00 PM in Shelby Center, Room 1103. ACM hosts a few smaller clubs, like Ethical Hacking Club, Competitive Programming Team, Web Development Club, Technical Interview Association, and Auburn Hacks, and we will be hearing from the leaders of each of them. Getting involved with ACM and these clubs is a great way to apply some of the things you learn in class, and it can make the whole Auburn CSSE experience come together. In addition, we will have free pizza! If you plan on attending, please RSVP at aub.ie/acmspringkickoff. We hope to see all of you there!
 
-**Be sure to RSVP at [aub.ie/acmspringkickof](https://aub.ie/acmspringkickoff)**
+**Be sure to RSVP at [aub.ie/acmspringkickoff](https://aub.ie/acmspringkickoff)**
 
 ## Why get involved?
 
@@ -40,4 +40,8 @@ interests and goals.
 - **Personal Growth:** Getting involved with ACM encourages you to step out of
 comfort zone, take on new responsibilities, and do new things. This is a great
 way to increase self-confidence and self-awareness.
+
+To learn more and jump in online, join the AU ACM Discord at [https://discord.gg/jPNfTBuKX7](https://discord.gg/jPNfTBuKX7).
+
+
 
