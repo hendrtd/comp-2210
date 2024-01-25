@@ -1,11 +1,11 @@
 # Lab Test 1 and Exam 1 Information
 
-**Lab Test 1** will be given during your lab section on **Tuesday, January
-30**. You must be physically present in the lab, take the lab test in one
+**Lab Test 1** will be given during your lab section on **Tuesday, February
+13**. You must be physically present in the lab, take the lab test in one
 sitting, and you must complete and submit the lab test before the end of your
 lab period. 
 
-**Exam 1** will be given during your lab section on **Thursday, February 1**.
+**Exam 1** will be given during your lab section on **Thursday, February 15**.
 You must be physically present in the lab, take the lab test in one sitting,
 and you must complete and submit the lab test before the end of your lab
 period.
