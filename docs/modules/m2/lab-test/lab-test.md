@@ -31,7 +31,7 @@ Be sure to observe the following rules as you take the lab test.
   Code](http://www.auburn.edu/academic/provost/academic-honesty/_assets/pdf/academic-honesty-code-20201028.pdf).
 
 - You are allowed to reference the Java API at the following link:
-  [https://docs.oracle.com/en/java/javase/15/docs/api/index.html](https://docs.oracle.com/en/java/javase/15/docs/api/index.html).
+  [Java API](https://docs.oracle.com/en/java/javase/16/docs/api/index.html)
   Be sure to load the API in a separate browser tab **before** you begin the lab
   test. You are not allowed to reference any other material during the lab test.
 
