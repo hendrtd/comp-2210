@@ -221,11 +221,21 @@ array sorted in descending order of weight. This returned array represents the
 predicted completions for the given prefix.
 
 
-## Starter Code 
+## Provided Resources
 
-- [src](../src/)
+### Starter Code 
 
-### Acknowledgments
+- [`Term.java`](../src/Term.java)
+- [`BinarySearch.java`](../src/BinarySearch.java)
+- [`Autocomplete.java`](../src/Autocomplete.java)
+
+### Sample Clients
+
+- [`TermClient.java`](../src/TermClient.java)
+- [`BinarySearchClient.java`](../src/BinarySearchClient.java)
+- [`AutocompleteClient.java`](../src/AutocompleteClient.java)
+
+## Acknowledgments
 
 This assignment is based on a problem originally described by Matthew Drabick
 and Kevin Wayne in 2014.
