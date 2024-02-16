@@ -7,10 +7,10 @@
 [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete), or **predictive
 text**, is now a common feature in software applications including search
 engines, messaging apps, source code editors and more. Its more aggressive
-cousin **autocorrect** can be extremely frustrating and [sometimes
+cousin **autocorrect** can be extremely frustrating and sometimes
 [funny](img/autocorrect-fail.jpg). But when done well, providing predicted
-completions to something currently being typed can be helpful and can make
-the task go faster.
+completions to something currently being typed can be helpful and can make the
+task go faster.
 
 We're probably all familiar with how autocomplete works: As a user types, the
 software predicts the most likely *completions* of what the user is typing and
@@ -92,10 +92,10 @@ that    3400031103
 
 Each line consists of a word (query) and an integer (weight). The integer
 records the total number of occurrences of the associated word in some large
-[corpus](https://www.google.com/search?q=define+corpus) of English text. Note
-the data is arranged in descending order of weight. This data shows that "the"
-is the most frequently occurring English word, appearing over 23 billion times
-in the corpus from which the data was drawn. So, if "t" is the prefix, the
+[corpus](https://en.wikipedia.org/wiki/Text_corpus) of English text. Note the
+data is arranged in descending order of weight. This data shows that "the" is
+the most frequently occurring English word, appearing over 23 billion times in
+the corpus from which the data was drawn. So, if "t" is the prefix, the
 autocomplete should return "the", "to", and "that" - in that order - as the
 first three predicted completions.
 
