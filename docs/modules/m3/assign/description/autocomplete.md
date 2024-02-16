@@ -5,12 +5,12 @@
 ## Overview and Context
 
 [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete), or **predictive
-[text**, is now a common feature in software applications including search
-[engines, messaging apps, source code editors and more. Its more aggressive
-[cousin **autocorrect** can be extremely frustrating and [sometimes
+text**, is now a common feature in software applications including search
+engines, messaging apps, source code editors and more. Its more aggressive
+cousin **autocorrect** can be extremely frustrating and [sometimes
 [funny](img/autocorrect-fail.jpg). But when done well, providing predicted
-[completions to something currently being typed can be helpful and can make
-[the task go faster.
+completions to something currently being typed can be helpful and can make
+the task go faster.
 
 We're probably all familiar with how autocomplete works: As a user types, the
 software predicts the most likely *completions* of what the user is typing and
@@ -187,7 +187,8 @@ public class BinarySearch {
 }
 ```
 
-Both methods must use the binary search algorithm and make on the order of *log N* comparisons to `a[middle]` where *N* is the number of elements in `a[]`.
+Both methods must use the binary search algorithm and make on the order of *log
+N* comparisons to `a[middle]` where *N* is the number of elements in `a[]`.
 
 
 ### The `Autocomplete` class
