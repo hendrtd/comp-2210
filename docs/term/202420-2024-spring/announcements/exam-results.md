@@ -8,5 +8,5 @@ the lecture notes or other instructional resource where this question topic was
 covered. If you still have confusion about the question and its correct answer,
 please discuss this with me or a course TA.
 
-<img src="../../img/rags.jpg" width="100">
+<img src="../img/rags.jpg" width="100">
 
