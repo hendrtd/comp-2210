@@ -26,7 +26,7 @@ public class BinarySearchClient {
         location = BinarySearch.<String>lastIndexOf(words, "one", asclexico);
         System.out.println(location);
 
-        Comparator<String> comparator = new BinarySearch.asclexicoPartial(1);
+        Comparator<String> comparator = asclexicoPartial(1);
         Arrays.<String>sort(words, comparator);
         System.out.println(Arrays.toString(words));
         int start = BinarySearch.<String>firstIndexOf(words, "f", comparator);
