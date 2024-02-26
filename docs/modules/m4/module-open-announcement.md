@@ -41,7 +41,7 @@ As you begin Module 4, here are a few things to keep in mind.
   general questions answered is by posting to the course discussion forum. Don’t
   hesitate to reach out if you need any help or have any questions.
 
-Lot's of good stuff in this module! Have fun, and please do reach out if you
+Lots of good stuff in this module! Have fun, and please do reach out if you
 have questions or concerns.
 
 <img src="../../img/rags.jpg" width="100">
