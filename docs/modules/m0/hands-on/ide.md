@@ -203,10 +203,13 @@ including the
 for Windows 10 
 through [Ubuntu on Windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab).
 
-Here are two good resources for learning to work with the command line.
+Here are a few good resources for learning to work with the command line.
 
 - [https://programminghistorian.org/en/lessons/intro-to-bash](https://programminghistorian.org/en/lessons/intro-to-bash)
 - [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [https://linuxcommand.org/tlcl.php](https://linuxcommand.org/tlcl.php)
+- [https://fabiensanglard.net/bash/](https://fabiensanglard.net/bash/)
+- [https://www.youtube.com/playlist?list=PLzV58Zm8FuBKtREubmlbKHnPI-_LZlkzH](https://www.youtube.com/playlist?list=PLzV58Zm8FuBKtREubmlbKHnPI-_LZlkzH)
 
 And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile) are very
 helpful if you work at the command line. Here's a good tutorial:
