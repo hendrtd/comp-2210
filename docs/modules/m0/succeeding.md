@@ -130,4 +130,7 @@ and other similar resources for practice sessions outside of the course.
 
 - [https://open.kattis.com/](https://open.kattis.com/)
 - [https://codingbat.com/java](https://codingbat.com/java)
+- [https://www.hackerrank.com/](https://www.hackerrank.com/)
+- [https://leetcode.com/](https://leetcode.com/)
+- [https://projecteuler.net/](https://projecteuler.net/)
 
