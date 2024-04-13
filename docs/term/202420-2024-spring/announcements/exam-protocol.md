@@ -1,6 +1,6 @@
 # Exam Protocol
 
-Here is the protocol you must follow during the lab exam. **Violation of any
+Here is the protocol you must follow during the exam. **Violation of any
 requirement specified in this protocol can be considered Academic Dishonesty.**
 
 - You must be physically present in your assigned lab room during your assigned
