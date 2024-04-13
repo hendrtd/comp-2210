@@ -11,5 +11,5 @@ and Lab Test 3.
 
 Have fun and enjoy!
 
-<!-- <img src="../../img/rags.jpg" width="100"> -->
+<img src="../../img/rags.jpg" width="100"> 
 
