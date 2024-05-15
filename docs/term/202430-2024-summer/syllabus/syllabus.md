@@ -34,6 +34,30 @@ instructions linked
 to have Canvas show deadlines appropriately in your local time zone to avoid
 any confusion.
 
+## Proctoring
+
+All exams and lab tests must be completed in a proctored environment. There are two proctoring options:
+
+1. Online, asynchronous proctoring via Respondus Monitor + Respondus LockDown Browser
+1. On-campus, in-person proctoring via Biggio Testing Center Services 
+
+### Respondus Monitor Subscription
+
+A Respondus Monitor subscription costs $15 per year. You can make the purchase
+the first time Respondus Monitor is required by an exam in the course. The
+process is simple, and payment can be made via credit card, debit card, or
+PayPal. A student subscription for Respondus Monitor is valid for 12 months
+(365 days) and can be used with other courses.
+
+### Biggio Testing Services
+
+Biggio Center Testing Services offers a free in-person testing option. Testing
+Services is located at 112 South College Street, Biggin Hall Room 238, Auburn,
+AL 36849. There is a link in Canvas that allows you to schedule a time to go
+take your quiz or exam. At your scheduled time, you will report to the Testing
+Center to take your quiz. Please make sure to take your Auburn ID or a valid
+government-issued ID with you as you will not be able to test without one.
+
 # Course Description
 
 COMP 2210 is designed to introduce fundamental data structures and associated
