@@ -6,7 +6,7 @@ environments, including the *programming lab* environment that we will be using
 in this course. Using Vocareum requires a subscription fee that will be charged
 directly to your eBill via Auburn's [All
 Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx) program.  Do
-**not** go to the Vocareum website directly to sign up or pay. Instead, your
+**NOT** go to the Vocareum website directly to sign up or pay. Instead, your
 Vocareum account will be automatically created when you access the Vocareum
 activity via the "Load in a New Window" button at the bottom of this page. This
 will load Vocareum and you will be prompted to enter the access code that was
